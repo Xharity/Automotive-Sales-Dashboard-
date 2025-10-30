@@ -23,5 +23,5 @@ This Power BI dashboard analyzes automotive sales across various brands, models,
 ![Dashboard Preview](AUTO.png)
 
 ### 📫 Connect with Me
-[LinkedIn Profile](https://linkedin.com/in/charity-umoh)
+[LinkedIn Profile](https://www.linkedin.com/in/umoh-charity-7065a5105/)
 
