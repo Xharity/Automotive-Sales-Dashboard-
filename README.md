@@ -20,7 +20,7 @@ This Power BI dashboard analyzes automotive sales across various brands, models,
 - `AUTO.png` — Dashboard preview
 
 ### 📊 Dashboard Preview
-![Dashboard Preview](AUTO.png)
+![https://github.com/Xharity/Automotive-Sales-Dashboard-/blob/main/Screenshot%202025-10-30%20104717.png?raw=true](AUTO.png)
 
 ### 📫 Connect with Me
 [LinkedIn Profile](https://www.linkedin.com/in/umoh-charity-7065a5105/)
