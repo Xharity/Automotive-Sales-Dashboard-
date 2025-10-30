@@ -1,0 +1,1001 @@
+Car_ID,Date,Brand,Model,Year,Body_Type,Fuel_Type,Transmission,Region,Sales_Units,Unit_Price,Total_Sales,Dealer,Customer_Type
+1,04/04/2021,Hyundai,Elantra,2023,Truck,Hybrid,Manual,Lagos,9,34864296.92,313778672.3,SpeedHub,New
+2,13/06/2019,Ford,Explorer,2024,Truck,Petrol,Automatic,Ibadan,18,32871315.39,591683677,DriveX,New
+3,01/07/2021,Hyundai,Tucson,2020,SUV,Diesel,Manual,Port Harcourt,3,39686291.96,119058875.9,DriveX,Returning
+4,02/12/2020,Nissan,Pathfinder,2018,Sedan,Hybrid,Automatic,Abuja,17,37131073.61,631228251.4,AutoNation,New
+5,24/03/2024,Lexus,ES,2023,Sedan,Petrol,Automatic,Abuja,9,13111881.55,118006934,SpeedHub,Returning
+6,04/10/2022,Nissan,Altima,2021,Truck,Electric,Manual,Port Harcourt,13,17462614.58,227013989.5,DriveX,Returning
+7,22/06/2019,Hyundai,Elantra,2023,Sedan,Petrol,Manual,Abuja,6,37606258.58,225637551.5,SpeedHub,Returning
+8,02/01/2021,Toyota,Highlander,2022,Sedan,Petrol,Automatic,Ibadan,3,9094093.69,27282281.07,MegaMotors,New
+9,27/05/2022,Hyundai,Tucson,2021,Sedan,Petrol,Automatic,Ibadan,2,11162119.95,22324239.9,MegaMotors,New
+10,16/04/2022,Kia,Sorento,2022,SUV,Hybrid,Automatic,Abuja,22,37966364.94,835260028.7,CarPoint,Returning
+11,06/09/2023,Ford,Explorer,2023,SUV,Electric,Manual,Kano,25,27389790.61,684744765.3,SpeedHub,New
+12,08/01/2023,Ford,Explorer,2019,Hatchback,Electric,Automatic,Ibadan,2,21981313.33,43962626.66,MegaMotors,New
+13,30/08/2023,Kia,Sorento,2022,Hatchback,Electric,Manual,Ibadan,17,40328586.82,685585975.9,MegaMotors,Returning
+14,19/01/2021,Honda,Civic,2024,Sedan,Diesel,Manual,Port Harcourt,4,39918444.48,159673777.9,DriveX,Returning
+15,20/12/2024,BMW,3 Series,2020,Truck,Hybrid,Manual,Lagos,3,16302673.48,48908020.44,MegaMotors,Returning
+16,29/11/2021,BMW,X5,2023,Truck,Diesel,Automatic,Kano,8,16636983.71,133095869.7,DriveX,New
+17,16/06/2024,Kia,Rio,2023,Truck,Hybrid,Manual,Ibadan,3,39612679.24,118838037.7,MegaMotors,Returning
+18,25/12/2022,Lexus,RX,2023,SUV,Petrol,Automatic,Kano,24,36519607.85,876470588.4,AutoNation,Returning
+19,24/11/2021,BMW,X3,2024,Truck,Hybrid,Manual,Kano,6,35162002.76,210972016.6,DriveX,Returning
+20,11/12/2022,BMW,X5,2021,SUV,Petrol,Manual,Kano,10,22577856.97,225778569.7,DriveX,Returning
+21,08/11/2022,Ford,Escape,2022,SUV,Petrol,Automatic,Abuja,3,18186220.83,54558662.49,SpeedHub,New
+22,07/08/2020,Ford,Escape,2023,Sedan,Diesel,Automatic,Lagos,7,25748523.29,180239663,SpeedHub,New
+23,01/05/2022,Volkswagen,Jetta,2018,Hatchback,Electric,Automatic,Abuja,23,19342028.67,444866659.4,AutoNation,Returning
+24,14/07/2022,Mercedes,E-Class,2021,Sedan,Petrol,Manual,Port Harcourt,4,27541595.88,110166383.5,MegaMotors,New
+25,17/11/2024,Toyota,RAV4,2019,Sedan,Hybrid,Manual,Ibadan,24,39735687.93,953656510.3,DriveX,New
+26,02/12/2023,BMW,3 Series,2021,SUV,Diesel,Manual,Lagos,2,23604828.53,47209657.06,AutoNation,Returning
+27,28/11/2019,Toyota,RAV4,2021,Sedan,Hybrid,Automatic,Abuja,19,26973270.83,512492145.8,MegaMotors,New
+28,21/10/2024,Mercedes,GLC,2021,Sedan,Petrol,Automatic,Port Harcourt,22,22430363.01,493467986.2,AutoNation,Returning
+29,16/06/2022,BMW,5 Series,2020,SUV,Electric,Manual,Lagos,5,42379940.19,211899701,CarPoint,Returning
+30,25/09/2024,Toyota,Corolla,2023,Truck,Electric,Automatic,Ibadan,7,24126551.16,168885858.1,SpeedHub,Returning
+31,12/11/2022,Hyundai,Santa Fe,2018,Hatchback,Electric,Automatic,Ibadan,18,13798943.42,248380981.6,CarPoint,New
+32,12/07/2019,Ford,Focus,2019,Truck,Hybrid,Automatic,Lagos,4,34324755.06,137299020.2,AutoNation,New
+33,02/10/2021,Lexus,LX,2019,Sedan,Diesel,Automatic,Ibadan,24,9878744,237089856,CarPoint,Returning
+34,16/03/2023,Kia,Sorento,2019,Sedan,Petrol,Automatic,Abuja,23,16416442.88,377578186.2,CarPoint,New
+35,29/05/2023,Nissan,Rogue,2022,Truck,Petrol,Automatic,Lagos,19,42561224.48,808663265.1,SpeedHub,New
+36,05/12/2021,Hyundai,Kona,2020,Sedan,Diesel,Manual,Ibadan,17,34597327.61,588154569.4,DriveX,Returning
+37,14/04/2020,Toyota,Camry,2024,Hatchback,Electric,Automatic,Kano,16,17021953.14,272351250.2,AutoNation,Returning
+38,01/11/2021,Volkswagen,Passat,2024,SUV,Hybrid,Automatic,Port Harcourt,10,28320652.18,283206521.8,MegaMotors,New
+39,07/03/2020,Hyundai,Santa Fe,2018,Sedan,Diesel,Automatic,Lagos,16,12294214.22,196707427.5,AutoNation,Returning
+40,10/09/2020,Toyota,Highlander,2024,Hatchback,Hybrid,Manual,Kano,25,12275934.8,306898370,AutoNation,New
+41,21/03/2019,Kia,Seltos,2024,SUV,Petrol,Manual,Lagos,23,15648110.16,359906533.7,AutoNation,New
+42,17/11/2021,Hyundai,Kona,2018,SUV,Diesel,Manual,Lagos,21,17123295.14,359589197.9,AutoNation,New
+43,15/02/2023,BMW,X3,2023,Truck,Hybrid,Automatic,Abuja,9,43878857.21,394909714.9,CarPoint,Returning
+44,23/05/2023,Ford,Edge,2021,Hatchback,Hybrid,Automatic,Abuja,9,14528083.06,130752747.5,CarPoint,New
+45,08/12/2023,Volkswagen,Passat,2024,Truck,Hybrid,Automatic,Ibadan,25,39033505.6,975837640,DriveX,Returning
+46,31/03/2023,Toyota,Camry,2022,Sedan,Petrol,Manual,Abuja,3,19486150.99,58458452.97,SpeedHub,Returning
+47,20/09/2019,Honda,CR-V,2023,Sedan,Petrol,Manual,Abuja,24,13176497.61,316235942.6,AutoNation,Returning
+48,30/03/2023,Mercedes,GLE,2024,Hatchback,Electric,Automatic,Abuja,9,24265223.56,218387012,MegaMotors,New
+49,04/04/2020,BMW,5 Series,2024,Sedan,Diesel,Automatic,Lagos,5,19684241.48,98421207.4,DriveX,Returning
+50,02/06/2022,Honda,Accord,2020,Sedan,Petrol,Automatic,Lagos,8,30158901.89,241271215.1,DriveX,Returning
+51,20/09/2019,Ford,Focus,2022,Truck,Petrol,Automatic,Abuja,11,22708121.58,249789337.4,AutoNation,Returning
+52,15/08/2024,Toyota,RAV4,2022,Hatchback,Hybrid,Automatic,Abuja,24,29928315.87,718279580.9,SpeedHub,Returning
+53,03/07/2023,Volkswagen,Tiguan,2022,Sedan,Petrol,Manual,Lagos,17,36277713.36,616721127.1,SpeedHub,New
+54,11/03/2020,Lexus,LX,2023,Truck,Petrol,Automatic,Abuja,18,23171712.29,417090821.2,AutoNation,Returning
+55,08/10/2024,Kia,Sportage,2024,Truck,Hybrid,Manual,Ibadan,12,30563793.52,366765522.2,SpeedHub,Returning
+56,29/05/2020,Honda,CR-V,2020,Truck,Diesel,Automatic,Ibadan,12,24725685.86,296708230.3,SpeedHub,New
+57,01/12/2023,Honda,Accord,2023,Sedan,Electric,Automatic,Port Harcourt,23,42761918.8,983524132.4,CarPoint,Returning
+58,11/02/2024,Volkswagen,Jetta,2022,Truck,Electric,Manual,Abuja,2,34626179.71,69252359.42,MegaMotors,Returning
+59,12/06/2021,Kia,Seltos,2024,Truck,Petrol,Manual,Port Harcourt,16,29685563.5,474969016,MegaMotors,New
+60,31/10/2022,Ford,Edge,2021,Truck,Electric,Manual,Port Harcourt,11,16377170.96,180148880.6,DriveX,Returning
+61,02/05/2023,Kia,Sorento,2023,Truck,Petrol,Manual,Lagos,8,26651369.31,213210954.5,MegaMotors,Returning
+62,24/12/2022,Mercedes,E-Class,2018,Sedan,Electric,Automatic,Kano,3,15728235.25,47184705.75,CarPoint,New
+63,11/01/2022,Kia,Sorento,2024,Sedan,Petrol,Automatic,Kano,22,26641986.19,586123696.2,CarPoint,Returning
+64,22/11/2020,Honda,CR-V,2022,Hatchback,Hybrid,Automatic,Abuja,8,39833400.25,318667202,CarPoint,New
+65,30/05/2022,Lexus,LX,2023,Hatchback,Petrol,Manual,Kano,22,8228297.31,181022540.8,CarPoint,Returning
+66,29/09/2024,Toyota,Camry,2023,Sedan,Electric,Manual,Kano,10,23043678.9,230436789,CarPoint,Returning
+67,04/08/2023,Ford,Focus,2018,Sedan,Hybrid,Manual,Kano,16,13848252.85,221572045.6,CarPoint,New
+68,19/04/2023,Ford,Escape,2024,Sedan,Diesel,Manual,Abuja,14,10650748.3,149110476.2,SpeedHub,Returning
+69,02/07/2019,Toyota,RAV4,2018,SUV,Hybrid,Manual,Port Harcourt,24,38884518.29,933228439,AutoNation,Returning
+70,14/12/2023,Nissan,Rogue,2020,SUV,Electric,Manual,Kano,21,24722507.71,519172661.9,DriveX,Returning
+71,14/01/2021,Honda,Accord,2022,Truck,Hybrid,Manual,Port Harcourt,24,11941945.87,286606700.9,DriveX,Returning
+72,28/03/2022,Toyota,Corolla,2018,Truck,Hybrid,Automatic,Kano,25,32715576.18,817889404.5,SpeedHub,Returning
+73,07/10/2022,Honda,Accord,2023,Sedan,Electric,Automatic,Lagos,10,27482514.78,274825147.8,CarPoint,Returning
+74,04/11/2021,Lexus,NX,2022,Sedan,Diesel,Manual,Abuja,9,17554313.08,157988817.7,AutoNation,Returning
+75,11/11/2019,Toyota,Corolla,2018,Hatchback,Hybrid,Manual,Lagos,17,44373654.73,754352130.4,DriveX,New
+76,31/10/2020,Mercedes,GLC,2020,Hatchback,Petrol,Automatic,Abuja,22,21464119.98,472210639.6,DriveX,Returning
+77,30/07/2020,BMW,5 Series,2022,Sedan,Petrol,Automatic,Abuja,1,27178555.44,27178555.44,SpeedHub,Returning
+78,16/02/2023,Lexus,RX,2020,SUV,Hybrid,Automatic,Lagos,11,32714233.08,359856563.9,DriveX,New
+79,21/08/2019,Mercedes,E-Class,2020,SUV,Electric,Manual,Ibadan,3,14844244.55,44532733.65,SpeedHub,Returning
+80,25/03/2023,Kia,Rio,2022,SUV,Electric,Automatic,Abuja,7,42181812.42,295272686.9,MegaMotors,Returning
+81,22/12/2024,Lexus,NX,2024,Sedan,Diesel,Manual,Lagos,10,41684142.61,416841426.1,DriveX,New
+82,10/10/2024,BMW,X5,2023,Truck,Petrol,Manual,Lagos,18,36300345.97,653406227.5,SpeedHub,Returning
+83,11/07/2021,Volkswagen,Jetta,2021,Hatchback,Petrol,Automatic,Kano,18,30117512.6,542115226.8,DriveX,Returning
+84,21/08/2019,Hyundai,Tucson,2024,SUV,Hybrid,Automatic,Ibadan,23,8009126.53,184209910.2,SpeedHub,New
+85,02/04/2019,Hyundai,Santa Fe,2018,SUV,Diesel,Automatic,Abuja,7,35174884.48,246224191.4,AutoNation,New
+86,11/11/2024,Volkswagen,Passat,2022,Sedan,Hybrid,Manual,Ibadan,9,22691268.47,204221416.2,AutoNation,New
+87,07/12/2020,Lexus,LX,2020,Sedan,Diesel,Automatic,Lagos,4,22546919.03,90187676.12,CarPoint,New
+88,16/04/2019,Hyundai,Elantra,2018,SUV,Diesel,Manual,Lagos,12,16628128.26,199537539.1,MegaMotors,New
+89,24/12/2019,Hyundai,Elantra,2020,SUV,Electric,Automatic,Lagos,4,14507030.65,58028122.6,DriveX,New
+90,19/05/2021,Volkswagen,Atlas,2021,Sedan,Hybrid,Automatic,Lagos,22,40883056.17,899427235.7,MegaMotors,New
+91,01/05/2023,Mercedes,GLC,2018,Hatchback,Petrol,Automatic,Abuja,22,15775695.14,347065293.1,CarPoint,New
+92,20/11/2022,Kia,Sorento,2020,Sedan,Hybrid,Manual,Kano,19,31397117.83,596545238.8,CarPoint,Returning
+93,11/03/2023,Volkswagen,Jetta,2022,SUV,Diesel,Automatic,Ibadan,3,16850569.12,50551707.36,AutoNation,New
+94,03/04/2019,Volkswagen,Jetta,2018,SUV,Diesel,Manual,Kano,22,28812024.53,633864539.7,CarPoint,New
+95,02/12/2019,Mercedes,GLC,2021,Truck,Petrol,Automatic,Abuja,5,11482328.57,57411642.85,CarPoint,New
+96,21/11/2020,Toyota,Highlander,2024,Truck,Petrol,Automatic,Ibadan,3,36941806.61,110825419.8,CarPoint,Returning
+97,25/09/2019,Lexus,ES,2018,SUV,Diesel,Manual,Lagos,15,43902816.65,658542249.8,MegaMotors,New
+98,18/11/2020,Mercedes,C-Class,2024,SUV,Electric,Manual,Lagos,11,43434446.13,477778907.4,SpeedHub,New
+99,14/11/2023,Honda,Accord,2022,SUV,Petrol,Automatic,Abuja,22,17716277.85,389758112.7,AutoNation,Returning
+100,06/08/2019,Ford,Focus,2023,SUV,Petrol,Manual,Abuja,17,10233233.31,173964966.3,SpeedHub,New
+101,17/10/2022,Lexus,LX,2023,Sedan,Diesel,Automatic,Port Harcourt,8,12815809.78,102526478.2,MegaMotors,New
+102,18/10/2021,Nissan,Pathfinder,2024,Hatchback,Petrol,Manual,Lagos,6,10127639.63,60765837.78,DriveX,New
+103,29/01/2024,Honda,CR-V,2023,Hatchback,Diesel,Automatic,Abuja,10,12268498.31,122684983.1,MegaMotors,New
+104,28/10/2019,Kia,Sorento,2020,SUV,Electric,Manual,Kano,5,8855858.31,44279291.55,CarPoint,Returning
+105,25/05/2021,Honda,CR-V,2023,Sedan,Hybrid,Automatic,Lagos,13,30268332.72,393488325.4,CarPoint,Returning
+106,26/07/2019,Honda,CR-V,2021,SUV,Petrol,Manual,Kano,3,24585796.2,73757388.6,SpeedHub,New
+107,04/01/2021,Volkswagen,Atlas,2021,Truck,Hybrid,Manual,Lagos,8,24245269.41,193962155.3,SpeedHub,Returning
+108,22/09/2021,Volkswagen,Tiguan,2019,Sedan,Hybrid,Automatic,Ibadan,24,29070379.94,697689118.6,DriveX,Returning
+109,13/02/2022,BMW,3 Series,2024,Hatchback,Diesel,Manual,Port Harcourt,7,29635069.53,207445486.7,SpeedHub,Returning
+110,29/07/2023,Volkswagen,Tiguan,2023,Hatchback,Electric,Automatic,Kano,8,27565697.85,220525582.8,CarPoint,New
+111,22/04/2023,Hyundai,Tucson,2018,Hatchback,Electric,Automatic,Ibadan,5,15553660.93,77768304.65,SpeedHub,Returning
+112,03/01/2020,Volkswagen,Tiguan,2023,Sedan,Petrol,Automatic,Lagos,3,39252056.95,117756170.9,DriveX,Returning
+113,19/10/2022,Hyundai,Kona,2019,Hatchback,Petrol,Manual,Lagos,21,13360613.75,280572888.8,MegaMotors,New
+114,18/10/2024,Volkswagen,Atlas,2022,Truck,Electric,Automatic,Kano,7,23945781.57,167620471,MegaMotors,New
+115,25/11/2020,BMW,X3,2018,SUV,Petrol,Automatic,Kano,18,20398472.67,367172508.1,AutoNation,Returning
+116,20/02/2021,Lexus,RX,2024,Truck,Petrol,Automatic,Kano,13,21785206.27,283207681.5,DriveX,New
+117,06/12/2019,Kia,Seltos,2018,Hatchback,Electric,Automatic,Lagos,24,17513141.64,420315399.4,DriveX,Returning
+118,22/04/2024,Nissan,Pathfinder,2022,Sedan,Hybrid,Manual,Kano,15,43095771.47,646436572.1,AutoNation,New
+119,25/05/2019,Mercedes,C-Class,2019,Truck,Diesel,Manual,Kano,23,43614844.55,1003141425,CarPoint,New
+120,23/09/2024,BMW,5 Series,2018,Sedan,Hybrid,Automatic,Lagos,20,15611340.52,312226810.4,AutoNation,New
+121,01/03/2020,Mercedes,E-Class,2019,Hatchback,Electric,Automatic,Lagos,5,9608729.32,48043646.6,MegaMotors,New
+122,03/08/2021,Kia,Seltos,2019,Sedan,Petrol,Automatic,Port Harcourt,25,14024019.82,350600495.5,DriveX,New
+123,24/02/2022,Honda,CR-V,2022,Sedan,Petrol,Manual,Lagos,20,15365182.53,307303650.6,DriveX,New
+124,08/03/2023,Mercedes,C-Class,2018,Truck,Diesel,Manual,Ibadan,23,31654732.67,728058851.4,AutoNation,New
+125,12/06/2023,Nissan,Sentra,2021,Sedan,Petrol,Automatic,Kano,19,38764858.48,736532311.1,DriveX,Returning
+126,01/01/2022,Lexus,RX,2023,Truck,Electric,Automatic,Kano,3,12085040.92,36255122.76,CarPoint,New
+127,14/04/2020,Hyundai,Kona,2018,SUV,Electric,Manual,Lagos,14,31260423.97,437645935.6,DriveX,Returning
+128,24/08/2023,Volkswagen,Atlas,2023,Hatchback,Electric,Manual,Port Harcourt,20,11842550.98,236851019.6,DriveX,Returning
+129,16/01/2023,Toyota,Corolla,2019,Truck,Hybrid,Automatic,Ibadan,4,8400458.26,33601833.04,MegaMotors,Returning
+130,11/07/2024,Kia,Sportage,2018,SUV,Hybrid,Manual,Ibadan,21,42554626.54,893647157.3,DriveX,Returning
+131,13/07/2022,Nissan,Altima,2018,Truck,Diesel,Manual,Lagos,12,27376456.05,328517472.6,CarPoint,New
+132,21/10/2023,Mercedes,E-Class,2021,Sedan,Diesel,Manual,Abuja,7,22326937.72,156288564,CarPoint,New
+133,02/12/2023,Hyundai,Elantra,2020,Truck,Hybrid,Manual,Kano,12,28690548.16,344286577.9,AutoNation,Returning
+134,16/12/2019,Lexus,ES,2019,Sedan,Electric,Automatic,Kano,25,15622868.47,390571711.8,MegaMotors,New
+135,09/11/2024,Hyundai,Elantra,2020,Hatchback,Petrol,Automatic,Abuja,22,10801317.34,237628981.5,MegaMotors,New
+136,12/03/2023,Toyota,Highlander,2020,Sedan,Hybrid,Automatic,Port Harcourt,2,25383962.78,50767925.56,MegaMotors,New
+137,27/12/2019,Honda,Accord,2021,Truck,Diesel,Automatic,Kano,18,42918640.89,772535536,AutoNation,New
+138,07/03/2021,Kia,Sportage,2019,Hatchback,Electric,Manual,Port Harcourt,21,18967551.18,398318574.8,AutoNation,Returning
+139,20/11/2024,Volkswagen,Tiguan,2023,SUV,Diesel,Automatic,Port Harcourt,12,39771285.29,477255423.5,DriveX,New
+140,09/08/2024,Hyundai,Elantra,2019,Sedan,Hybrid,Automatic,Abuja,22,11083438.48,243835646.6,AutoNation,Returning
+141,26/10/2022,Lexus,NX,2020,Hatchback,Diesel,Automatic,Abuja,19,19210294.97,364995604.4,AutoNation,Returning
+142,03/10/2024,Nissan,Rogue,2021,Truck,Diesel,Automatic,Ibadan,10,14727791.29,147277912.9,DriveX,Returning
+143,02/06/2021,BMW,5 Series,2020,Truck,Petrol,Manual,Lagos,5,32644575.52,163222877.6,CarPoint,Returning
+144,22/11/2021,BMW,X3,2024,Hatchback,Electric,Manual,Kano,6,15584822.85,93508937.1,SpeedHub,Returning
+145,04/06/2022,Hyundai,Elantra,2020,Truck,Electric,Automatic,Kano,8,13514798.07,108118384.6,DriveX,Returning
+146,28/04/2023,Kia,Rio,2021,Hatchback,Petrol,Automatic,Ibadan,20,21141345.59,422826911.8,SpeedHub,New
+147,11/06/2021,Kia,Sportage,2021,Truck,Electric,Automatic,Kano,12,25566559.67,306798716,DriveX,Returning
+148,06/03/2020,Honda,Accord,2020,Truck,Petrol,Automatic,Abuja,16,40131595.64,642105530.2,MegaMotors,Returning
+149,24/01/2022,Mercedes,GLE,2020,Sedan,Hybrid,Manual,Lagos,9,22876960.92,205892648.3,CarPoint,Returning
+150,15/07/2019,Mercedes,GLE,2022,Sedan,Electric,Automatic,Port Harcourt,19,23111663.79,439121612,AutoNation,New
+151,23/04/2023,BMW,X3,2023,Truck,Hybrid,Manual,Abuja,9,22756644,204809796,SpeedHub,New
+152,17/02/2019,Honda,Civic,2024,Sedan,Hybrid,Manual,Abuja,17,10015146.57,170257491.7,MegaMotors,New
+153,23/02/2023,Toyota,Corolla,2019,Sedan,Electric,Manual,Lagos,19,9071866.64,172365466.2,AutoNation,New
+154,16/08/2023,Kia,Sportage,2024,Sedan,Diesel,Manual,Abuja,14,24942894.89,349200528.5,SpeedHub,New
+155,10/10/2024,Honda,Accord,2022,Truck,Hybrid,Manual,Abuja,7,17388318.54,121718229.8,DriveX,Returning
+156,18/01/2019,Mercedes,GLE,2023,Sedan,Diesel,Automatic,Lagos,22,24369715.67,536133744.7,DriveX,Returning
+157,22/05/2022,Kia,Sportage,2018,Truck,Diesel,Automatic,Lagos,12,8599719.13,103196629.6,CarPoint,Returning
+158,08/06/2021,BMW,X5,2020,Sedan,Diesel,Manual,Ibadan,20,35458926.64,709178532.8,SpeedHub,New
+159,04/01/2019,Nissan,Pathfinder,2020,Hatchback,Petrol,Automatic,Ibadan,7,20902276.07,146315932.5,DriveX,Returning
+160,13/07/2022,Toyota,Corolla,2020,Truck,Hybrid,Manual,Ibadan,23,17672934.24,406477487.5,DriveX,Returning
+161,29/02/2020,Lexus,LX,2020,Sedan,Hybrid,Manual,Kano,17,10557604.64,179479278.9,SpeedHub,New
+162,07/06/2023,Toyota,Camry,2021,Sedan,Diesel,Manual,Abuja,18,28517597.94,513316762.9,SpeedHub,Returning
+163,01/11/2020,Kia,Sorento,2021,SUV,Petrol,Automatic,Kano,2,43215609.29,86431218.58,SpeedHub,Returning
+164,11/11/2022,Nissan,Altima,2018,Sedan,Electric,Automatic,Port Harcourt,14,35253136.9,493543916.6,MegaMotors,Returning
+165,25/07/2019,Volkswagen,Atlas,2019,SUV,Electric,Automatic,Ibadan,25,9239306.42,230982660.5,CarPoint,Returning
+166,29/03/2023,Toyota,Highlander,2019,SUV,Hybrid,Manual,Port Harcourt,12,38228593.03,458743116.4,DriveX,Returning
+167,14/05/2019,BMW,X3,2021,SUV,Electric,Manual,Lagos,8,42258499.89,338067999.1,AutoNation,Returning
+168,01/05/2022,Nissan,Pathfinder,2020,SUV,Electric,Automatic,Abuja,6,37949493.9,227696963.4,SpeedHub,New
+169,29/11/2024,Toyota,Highlander,2024,SUV,Diesel,Automatic,Lagos,5,8900282.86,44501414.3,AutoNation,New
+170,29/10/2022,Toyota,Highlander,2024,Sedan,Diesel,Automatic,Port Harcourt,9,37397082.48,336573742.3,MegaMotors,Returning
+171,18/10/2024,Ford,Explorer,2023,Hatchback,Petrol,Manual,Ibadan,23,42815839.03,984764297.7,MegaMotors,Returning
+172,04/09/2022,BMW,5 Series,2024,Sedan,Hybrid,Automatic,Kano,23,41002191.7,943050409.1,SpeedHub,New
+173,03/03/2022,Mercedes,C-Class,2019,SUV,Diesel,Manual,Port Harcourt,12,11656674.21,139880090.5,AutoNation,New
+174,20/09/2021,Toyota,Corolla,2018,Sedan,Petrol,Automatic,Kano,23,38619557.07,888249812.6,CarPoint,New
+175,11/05/2024,Lexus,ES,2018,Truck,Diesel,Automatic,Lagos,10,42862212.53,428622125.3,AutoNation,Returning
+176,01/07/2021,Toyota,Corolla,2018,Truck,Diesel,Manual,Ibadan,1,9201262.55,9201262.55,SpeedHub,New
+177,04/04/2020,Kia,Sportage,2022,Sedan,Petrol,Manual,Ibadan,16,25625994.1,410015905.6,MegaMotors,New
+178,03/07/2021,Hyundai,Santa Fe,2023,Hatchback,Hybrid,Automatic,Kano,18,14128111.75,254306011.5,MegaMotors,New
+179,27/06/2020,Kia,Sorento,2020,Sedan,Petrol,Automatic,Port Harcourt,13,12741732.26,165642519.4,CarPoint,Returning
+180,09/12/2023,Mercedes,E-Class,2020,Hatchback,Petrol,Automatic,Port Harcourt,2,42489437.05,84978874.1,AutoNation,Returning
+181,27/02/2022,Kia,Seltos,2022,Hatchback,Electric,Manual,Abuja,20,38272607.48,765452149.6,AutoNation,Returning
+182,12/08/2019,Kia,Seltos,2020,Sedan,Petrol,Automatic,Port Harcourt,19,30361139.58,576861652,DriveX,Returning
+183,12/01/2023,Volkswagen,Jetta,2022,SUV,Diesel,Manual,Lagos,1,41663775.96,41663775.96,SpeedHub,New
+184,18/02/2024,Lexus,LX,2024,Sedan,Diesel,Automatic,Ibadan,24,16657228.6,399773486.4,AutoNation,New
+185,09/09/2019,Mercedes,GLC,2023,SUV,Petrol,Manual,Lagos,23,19374530.34,445614197.8,MegaMotors,Returning
+186,30/03/2024,Toyota,Camry,2018,Sedan,Petrol,Manual,Ibadan,23,9985992.75,229677833.3,DriveX,Returning
+187,21/12/2021,Ford,Explorer,2024,Sedan,Hybrid,Automatic,Kano,16,41623694.49,665979111.8,MegaMotors,New
+188,14/06/2024,Mercedes,GLC,2022,Sedan,Hybrid,Automatic,Kano,16,22757517.34,364120277.4,DriveX,New
+189,24/07/2022,Mercedes,GLE,2018,SUV,Hybrid,Manual,Ibadan,2,18305329.19,36610658.38,SpeedHub,Returning
+190,25/08/2024,Toyota,Highlander,2019,Truck,Electric,Manual,Ibadan,11,23435464.44,257790108.8,DriveX,New
+191,21/09/2019,Hyundai,Tucson,2024,SUV,Petrol,Automatic,Lagos,6,27483104.51,164898627.1,DriveX,Returning
+192,15/02/2023,BMW,3 Series,2023,Hatchback,Diesel,Manual,Lagos,3,9871433.87,29614301.61,AutoNation,New
+193,31/12/2021,Honda,CR-V,2024,Truck,Diesel,Automatic,Abuja,20,27332231.94,546644638.8,SpeedHub,New
+194,27/01/2023,Kia,Seltos,2022,SUV,Diesel,Automatic,Port Harcourt,10,17056119.72,170561197.2,AutoNation,Returning
+195,30/05/2022,Kia,Sportage,2018,Hatchback,Electric,Manual,Ibadan,8,13903395.62,111227165,DriveX,New
+196,18/12/2020,Honda,Civic,2024,Sedan,Petrol,Manual,Kano,15,40440517.68,606607765.2,SpeedHub,Returning
+197,11/04/2024,Hyundai,Santa Fe,2019,SUV,Diesel,Manual,Port Harcourt,19,25207638.24,478945126.6,DriveX,New
+198,10/09/2024,Lexus,ES,2024,SUV,Electric,Automatic,Lagos,24,21694364.13,520664739.1,CarPoint,Returning
+199,23/05/2020,Lexus,LX,2024,Sedan,Diesel,Manual,Abuja,18,9848116.66,177266099.9,CarPoint,Returning
+200,07/07/2019,Mercedes,E-Class,2019,Hatchback,Petrol,Manual,Abuja,3,12640688.05,37922064.15,MegaMotors,Returning
+201,03/11/2019,Ford,Explorer,2018,Hatchback,Electric,Automatic,Port Harcourt,10,42867229.7,428672297,CarPoint,Returning
+202,13/10/2024,Hyundai,Tucson,2019,Sedan,Diesel,Manual,Lagos,20,27649039.51,552980790.2,MegaMotors,Returning
+203,28/11/2023,Hyundai,Santa Fe,2020,Truck,Hybrid,Manual,Ibadan,24,11270225.46,270485411,AutoNation,New
+204,03/07/2023,Kia,Sorento,2023,Truck,Petrol,Manual,Lagos,21,44384716.27,932079041.7,CarPoint,New
+205,17/01/2023,Nissan,Rogue,2019,Hatchback,Diesel,Manual,Lagos,7,12039240.19,84274681.33,CarPoint,New
+206,26/06/2019,Toyota,Highlander,2019,Sedan,Hybrid,Automatic,Abuja,18,33439010.6,601902190.8,CarPoint,Returning
+207,29/09/2019,Mercedes,GLC,2024,SUV,Electric,Manual,Lagos,18,26272548.17,472905867.1,AutoNation,Returning
+208,20/04/2021,Kia,Sportage,2019,SUV,Electric,Automatic,Abuja,5,11286687.73,56433438.65,CarPoint,New
+209,09/04/2023,Honda,Pilot,2020,Hatchback,Electric,Automatic,Kano,19,32583183.98,619080495.6,SpeedHub,Returning
+210,15/06/2019,Ford,Escape,2024,Sedan,Electric,Automatic,Port Harcourt,11,41205546.94,453261016.3,AutoNation,Returning
+211,15/12/2019,Honda,Accord,2022,SUV,Diesel,Automatic,Port Harcourt,16,28092283.54,449476536.6,CarPoint,Returning
+212,10/07/2022,Kia,Seltos,2020,SUV,Hybrid,Automatic,Ibadan,22,30188838.82,664154454,SpeedHub,New
+213,21/11/2022,Ford,Escape,2023,Truck,Petrol,Automatic,Abuja,10,10725330.87,107253308.7,MegaMotors,New
+214,24/08/2021,BMW,X3,2022,SUV,Petrol,Manual,Port Harcourt,7,17486432.84,122405029.9,SpeedHub,Returning
+215,23/06/2021,Mercedes,E-Class,2023,Sedan,Electric,Manual,Lagos,4,8075389.57,32301558.28,DriveX,Returning
+216,20/06/2022,Hyundai,Santa Fe,2018,SUV,Electric,Automatic,Ibadan,25,43083267.95,1077081699,SpeedHub,New
+217,19/03/2019,Hyundai,Tucson,2019,Hatchback,Electric,Manual,Lagos,5,9995061.19,49975305.95,DriveX,New
+218,24/02/2019,Kia,Rio,2020,Truck,Petrol,Automatic,Lagos,11,8800238.57,96802624.27,CarPoint,Returning
+219,01/05/2022,Volkswagen,Atlas,2022,Hatchback,Electric,Manual,Lagos,6,40799005.27,244794031.6,MegaMotors,Returning
+220,11/04/2024,Hyundai,Elantra,2020,Sedan,Petrol,Manual,Kano,13,39483883.02,513290479.3,SpeedHub,New
+221,07/11/2020,Volkswagen,Passat,2021,Hatchback,Hybrid,Automatic,Port Harcourt,8,25665664.23,205325313.8,MegaMotors,New
+222,04/11/2022,BMW,3 Series,2018,Hatchback,Petrol,Automatic,Kano,5,11314392.05,56571960.25,SpeedHub,New
+223,06/09/2024,Ford,Escape,2021,Truck,Petrol,Manual,Lagos,4,20146865.58,80587462.32,DriveX,New
+224,09/09/2024,Ford,Edge,2021,Hatchback,Petrol,Manual,Lagos,2,11101430.43,22202860.86,MegaMotors,New
+225,14/10/2021,Mercedes,GLC,2023,Sedan,Diesel,Manual,Ibadan,2,14796488.41,29592976.82,CarPoint,Returning
+226,16/09/2024,Lexus,NX,2019,SUV,Hybrid,Automatic,Kano,10,31695801.38,316958013.8,AutoNation,New
+227,02/04/2021,Nissan,Pathfinder,2022,Sedan,Petrol,Automatic,Kano,18,35795164.97,644312969.5,CarPoint,New
+228,26/10/2024,Hyundai,Elantra,2024,Sedan,Petrol,Automatic,Kano,9,29527813.65,265750322.9,CarPoint,New
+229,08/06/2020,Lexus,RX,2023,SUV,Petrol,Manual,Ibadan,10,23781557.38,237815573.8,MegaMotors,New
+230,20/12/2024,Honda,Accord,2022,Truck,Hybrid,Automatic,Kano,11,26498311.84,291481430.2,CarPoint,Returning
+231,08/09/2022,Lexus,ES,2019,Sedan,Electric,Automatic,Kano,16,25893050.72,414288811.5,MegaMotors,Returning
+232,01/04/2024,BMW,X5,2024,SUV,Petrol,Automatic,Abuja,2,27146667.53,54293335.06,SpeedHub,New
+233,02/08/2023,Volkswagen,Atlas,2018,Sedan,Hybrid,Manual,Abuja,21,9645054.32,202546140.7,DriveX,New
+234,26/11/2022,Mercedes,GLC,2019,Truck,Diesel,Automatic,Lagos,24,27020257.97,648486191.3,DriveX,Returning
+235,18/04/2024,Lexus,LX,2024,Hatchback,Electric,Automatic,Kano,5,34443945.23,172219726.2,CarPoint,New
+236,06/04/2024,Ford,Explorer,2018,Hatchback,Petrol,Manual,Lagos,25,8260894.96,206522374,AutoNation,Returning
+237,04/10/2021,Honda,Civic,2023,SUV,Electric,Automatic,Ibadan,9,13725738.7,123531648.3,MegaMotors,New
+238,21/06/2020,Lexus,ES,2023,SUV,Diesel,Manual,Port Harcourt,11,11556415.88,127120574.7,MegaMotors,New
+239,11/09/2019,Toyota,Camry,2021,SUV,Petrol,Automatic,Ibadan,20,19278668.13,385573362.6,MegaMotors,Returning
+240,25/04/2023,BMW,5 Series,2020,Sedan,Electric,Manual,Ibadan,4,44742521.82,178970087.3,DriveX,Returning
+241,23/01/2021,Toyota,Camry,2019,Sedan,Electric,Automatic,Abuja,22,28574528.61,628639629.4,AutoNation,Returning
+242,21/05/2023,Nissan,Altima,2023,SUV,Electric,Automatic,Lagos,21,8227135.38,172769843,DriveX,New
+243,26/08/2019,Ford,Escape,2021,Truck,Petrol,Manual,Port Harcourt,13,15304050.97,198952662.6,MegaMotors,New
+244,30/03/2024,Hyundai,Kona,2022,Truck,Electric,Manual,Port Harcourt,11,41931223.16,461243454.8,AutoNation,Returning
+245,29/04/2021,Toyota,RAV4,2021,Hatchback,Petrol,Automatic,Ibadan,17,30353330.24,516006614.1,CarPoint,New
+246,20/01/2024,Ford,Escape,2023,Truck,Diesel,Manual,Ibadan,1,38332937.59,38332937.59,AutoNation,Returning
+247,03/11/2022,Nissan,Sentra,2021,SUV,Electric,Automatic,Port Harcourt,17,28894771.34,491211112.8,MegaMotors,New
+248,10/02/2021,Nissan,Pathfinder,2022,SUV,Electric,Automatic,Port Harcourt,14,42843865.87,599814122.2,AutoNation,New
+249,25/06/2024,Hyundai,Kona,2024,Hatchback,Diesel,Manual,Port Harcourt,14,32677947.06,457491258.8,CarPoint,Returning
+250,13/05/2024,Lexus,RX,2021,Sedan,Hybrid,Manual,Kano,16,25745264.52,411924232.3,SpeedHub,Returning
+251,29/06/2021,Kia,Sorento,2019,SUV,Diesel,Manual,Ibadan,5,15659411.87,78297059.35,AutoNation,New
+252,31/03/2022,Mercedes,E-Class,2018,SUV,Petrol,Automatic,Lagos,3,10485300.29,31455900.87,CarPoint,Returning
+253,14/11/2024,Lexus,ES,2021,Sedan,Diesel,Manual,Ibadan,23,35026868.33,805617971.6,DriveX,Returning
+254,03/02/2020,Toyota,RAV4,2024,Hatchback,Hybrid,Manual,Ibadan,4,8527422.12,34109688.48,CarPoint,New
+255,16/09/2023,Kia,Rio,2019,Truck,Hybrid,Automatic,Abuja,11,12364740.28,136012143.1,DriveX,New
+256,21/10/2020,Lexus,LX,2018,Truck,Diesel,Manual,Abuja,12,10970052.02,131640624.2,AutoNation,New
+257,09/03/2021,Volkswagen,Tiguan,2023,SUV,Petrol,Manual,Abuja,25,22297182.78,557429569.5,MegaMotors,Returning
+258,01/07/2020,Lexus,RX,2023,SUV,Electric,Manual,Kano,11,43223713.91,475460853,AutoNation,New
+259,27/02/2020,Lexus,NX,2018,Hatchback,Petrol,Automatic,Kano,16,20944328.34,335109253.4,AutoNation,Returning
+260,02/03/2021,Nissan,Rogue,2024,SUV,Electric,Manual,Port Harcourt,7,31955534.59,223688742.1,AutoNation,Returning
+261,22/08/2024,BMW,3 Series,2022,Hatchback,Hybrid,Manual,Port Harcourt,23,25735826.96,591924020.1,SpeedHub,Returning
+262,06/08/2023,Volkswagen,Atlas,2019,Sedan,Petrol,Automatic,Port Harcourt,2,10736272.99,21472545.98,SpeedHub,New
+263,11/12/2024,Hyundai,Elantra,2023,Sedan,Diesel,Manual,Port Harcourt,1,24623264.87,24623264.87,DriveX,New
+264,10/04/2022,Lexus,NX,2020,Truck,Electric,Automatic,Lagos,11,33154299.43,364697293.7,SpeedHub,Returning
+265,01/07/2019,Mercedes,E-Class,2024,Hatchback,Diesel,Manual,Abuja,20,28328609.64,566572192.8,MegaMotors,New
+266,05/05/2020,Kia,Sorento,2022,SUV,Diesel,Manual,Lagos,14,9482416.49,132753830.9,MegaMotors,Returning
+267,31/10/2019,Nissan,Sentra,2021,Hatchback,Petrol,Automatic,Port Harcourt,13,15082909.62,196077825.1,CarPoint,New
+268,29/12/2020,Ford,Focus,2024,SUV,Diesel,Manual,Abuja,21,33653652.09,706726693.9,AutoNation,New
+269,28/05/2019,Volkswagen,Tiguan,2021,Hatchback,Hybrid,Manual,Abuja,2,11061168.63,22122337.26,CarPoint,New
+270,09/09/2024,Kia,Rio,2018,SUV,Diesel,Manual,Lagos,9,44411814.73,399706332.6,AutoNation,Returning
+271,15/10/2022,BMW,X5,2022,Hatchback,Diesel,Manual,Kano,22,15194401.12,334276824.6,DriveX,New
+272,08/11/2024,Volkswagen,Jetta,2018,Hatchback,Hybrid,Automatic,Lagos,9,32235675.95,290121083.6,AutoNation,New
+273,10/07/2021,Toyota,RAV4,2024,Sedan,Hybrid,Manual,Kano,18,27930408.85,502747359.3,CarPoint,New
+274,17/08/2021,Toyota,RAV4,2022,Truck,Electric,Automatic,Port Harcourt,20,16742674.97,334853499.4,MegaMotors,New
+275,03/01/2023,Volkswagen,Jetta,2022,Hatchback,Electric,Manual,Abuja,24,18267809.96,438427439,SpeedHub,New
+276,14/01/2023,BMW,5 Series,2022,SUV,Electric,Manual,Ibadan,15,10843029.75,162645446.3,AutoNation,Returning
+277,12/08/2020,Toyota,Camry,2024,Hatchback,Electric,Automatic,Ibadan,20,37311360.84,746227216.8,MegaMotors,New
+278,24/06/2023,Ford,Explorer,2022,Truck,Hybrid,Automatic,Abuja,22,23369065.84,514119448.5,CarPoint,Returning
+279,07/12/2021,Mercedes,GLE,2018,Truck,Petrol,Automatic,Lagos,2,37240400.26,74480800.52,SpeedHub,New
+280,25/05/2020,BMW,5 Series,2021,SUV,Hybrid,Automatic,Kano,6,23397979.58,140387877.5,SpeedHub,New
+281,21/04/2019,Honda,Pilot,2018,Sedan,Hybrid,Manual,Kano,19,11411117.25,216811227.8,AutoNation,Returning
+282,22/12/2023,Nissan,Sentra,2018,SUV,Electric,Manual,Kano,4,11259122.64,45036490.56,SpeedHub,New
+283,16/07/2021,Ford,Escape,2018,Sedan,Hybrid,Automatic,Lagos,7,38457423.24,269201962.7,SpeedHub,Returning
+284,25/05/2024,BMW,3 Series,2022,Sedan,Electric,Manual,Lagos,3,39693351.28,119080053.8,MegaMotors,New
+285,12/03/2019,Lexus,RX,2021,Hatchback,Hybrid,Automatic,Lagos,17,35927626.23,610769645.9,CarPoint,Returning
+286,06/01/2024,Ford,Explorer,2022,Hatchback,Hybrid,Manual,Abuja,6,8001815.44,48010892.64,AutoNation,Returning
+287,18/08/2023,Mercedes,C-Class,2022,Sedan,Electric,Manual,Abuja,23,33465104.43,769697401.9,SpeedHub,New
+288,21/12/2022,Hyundai,Santa Fe,2024,SUV,Petrol,Manual,Ibadan,5,40064560.19,200322801,CarPoint,Returning
+289,22/03/2019,Hyundai,Kona,2019,SUV,Hybrid,Automatic,Abuja,8,33254013.6,266032108.8,SpeedHub,New
+290,21/11/2023,Lexus,RX,2022,Sedan,Petrol,Automatic,Abuja,1,31239143.45,31239143.45,DriveX,New
+291,01/06/2020,Nissan,Altima,2020,Truck,Diesel,Manual,Port Harcourt,22,40679307.39,894944762.6,MegaMotors,New
+292,06/08/2019,Mercedes,C-Class,2024,SUV,Hybrid,Automatic,Kano,10,19153710.88,191537108.8,MegaMotors,Returning
+293,06/08/2023,Mercedes,C-Class,2024,Hatchback,Hybrid,Automatic,Abuja,6,32234730.16,193408381,CarPoint,Returning
+294,23/12/2023,Hyundai,Elantra,2024,SUV,Hybrid,Manual,Lagos,10,43146913.22,431469132.2,SpeedHub,Returning
+295,28/03/2019,Volkswagen,Tiguan,2022,SUV,Electric,Manual,Abuja,19,11060445.64,210148467.2,CarPoint,New
+296,15/11/2022,Honda,Pilot,2021,Truck,Hybrid,Manual,Abuja,18,35748461.72,643472311,DriveX,Returning
+297,15/03/2021,Mercedes,C-Class,2019,Hatchback,Petrol,Manual,Lagos,3,12282616.35,36847849.05,SpeedHub,New
+298,08/11/2024,Volkswagen,Jetta,2021,SUV,Hybrid,Automatic,Port Harcourt,19,17051932.38,323986715.2,AutoNation,Returning
+299,26/08/2019,Hyundai,Elantra,2024,Hatchback,Petrol,Manual,Kano,19,13782631.42,261869997,DriveX,Returning
+300,01/06/2019,Lexus,RX,2019,Hatchback,Hybrid,Automatic,Abuja,5,41233544.54,206167722.7,AutoNation,Returning
+301,10/11/2020,BMW,5 Series,2021,Truck,Diesel,Automatic,Port Harcourt,5,30967594,154837970,DriveX,New
+302,02/09/2019,Honda,Pilot,2021,Hatchback,Diesel,Manual,Ibadan,19,27841642.54,528991208.3,AutoNation,New
+303,15/12/2022,Mercedes,C-Class,2023,Truck,Hybrid,Manual,Abuja,16,16942457.2,271079315.2,MegaMotors,Returning
+304,19/10/2024,BMW,X5,2022,Truck,Hybrid,Manual,Ibadan,15,40179850.3,602697754.5,DriveX,New
+305,22/09/2019,Lexus,NX,2019,Hatchback,Electric,Manual,Ibadan,1,43378750.61,43378750.61,DriveX,Returning
+306,26/10/2023,Hyundai,Tucson,2020,Sedan,Hybrid,Manual,Kano,24,35727969.73,857471273.5,CarPoint,Returning
+307,12/01/2021,Volkswagen,Passat,2024,Truck,Electric,Manual,Ibadan,9,13622947.34,122606526.1,DriveX,Returning
+308,24/02/2024,BMW,5 Series,2018,Truck,Diesel,Automatic,Ibadan,20,8931554.2,178631084,DriveX,New
+309,21/11/2023,Ford,Focus,2020,SUV,Diesel,Manual,Ibadan,7,20581400.34,144069802.4,MegaMotors,Returning
+310,09/02/2019,Kia,Seltos,2024,Hatchback,Petrol,Manual,Port Harcourt,4,16105952.1,64423808.4,MegaMotors,New
+311,16/01/2020,BMW,3 Series,2019,Sedan,Electric,Manual,Lagos,12,24007115.42,288085385,SpeedHub,New
+312,27/12/2023,Volkswagen,Jetta,2019,Hatchback,Diesel,Automatic,Port Harcourt,13,24339159.8,316409077.4,MegaMotors,New
+313,20/11/2020,BMW,5 Series,2018,Truck,Petrol,Manual,Lagos,11,11730328.07,129033608.8,AutoNation,Returning
+314,13/01/2023,BMW,3 Series,2018,SUV,Hybrid,Automatic,Lagos,19,10918967.88,207460389.7,DriveX,New
+315,28/06/2022,Ford,Edge,2021,Truck,Diesel,Automatic,Abuja,18,35562571.19,640126281.4,AutoNation,New
+316,16/10/2019,Hyundai,Santa Fe,2021,Sedan,Electric,Manual,Ibadan,22,44623542.91,981717944,AutoNation,Returning
+317,07/03/2019,Mercedes,E-Class,2019,Truck,Petrol,Automatic,Abuja,20,26370637.65,527412753,MegaMotors,Returning
+318,28/10/2020,Nissan,Sentra,2022,Truck,Diesel,Automatic,Kano,15,38399032.58,575985488.7,DriveX,Returning
+319,04/03/2019,Lexus,RX,2024,Hatchback,Hybrid,Manual,Port Harcourt,11,43378291.43,477161205.7,CarPoint,New
+320,22/08/2023,Ford,Focus,2022,SUV,Electric,Automatic,Port Harcourt,7,44166937.17,309168560.2,SpeedHub,New
+321,09/12/2024,Kia,Seltos,2018,Truck,Diesel,Automatic,Abuja,8,43477519.91,347820159.3,CarPoint,New
+322,12/03/2024,BMW,X3,2021,Truck,Electric,Manual,Ibadan,25,21213016.78,530325419.5,SpeedHub,Returning
+323,15/06/2021,Hyundai,Elantra,2024,Sedan,Petrol,Automatic,Port Harcourt,21,33392115.56,701234426.8,SpeedHub,New
+324,24/04/2022,Nissan,Sentra,2021,Sedan,Petrol,Manual,Ibadan,23,18600553.72,427812735.6,CarPoint,Returning
+325,09/09/2023,Kia,Rio,2021,Sedan,Hybrid,Automatic,Abuja,16,15200455.99,243207295.8,SpeedHub,Returning
+326,20/05/2021,Toyota,Highlander,2018,SUV,Hybrid,Automatic,Port Harcourt,4,15964757.33,63859029.32,AutoNation,Returning
+327,20/03/2020,Lexus,RX,2022,Truck,Diesel,Manual,Port Harcourt,13,19123581.68,248606561.8,MegaMotors,New
+328,29/03/2022,Hyundai,Elantra,2024,Sedan,Diesel,Automatic,Abuja,6,29771331.39,178627988.3,AutoNation,Returning
+329,15/11/2020,BMW,3 Series,2018,Truck,Petrol,Automatic,Ibadan,22,20253770.3,445582946.6,AutoNation,Returning
+330,11/03/2020,Toyota,Corolla,2021,SUV,Electric,Automatic,Port Harcourt,15,10956507.22,164347608.3,MegaMotors,New
+331,21/04/2024,Lexus,NX,2018,Truck,Electric,Automatic,Abuja,9,16945563.81,152510074.3,MegaMotors,New
+332,07/09/2024,Ford,Escape,2024,Truck,Electric,Manual,Port Harcourt,23,17937802.75,412569463.3,CarPoint,New
+333,06/10/2022,Honda,Accord,2022,Truck,Diesel,Automatic,Ibadan,24,27912302.65,669895263.6,AutoNation,Returning
+334,05/11/2022,Kia,Rio,2019,Hatchback,Diesel,Automatic,Abuja,22,35707621.27,785567667.9,AutoNation,New
+335,09/09/2023,Lexus,RX,2018,SUV,Hybrid,Automatic,Ibadan,11,23708958.31,260798541.4,CarPoint,New
+336,02/12/2019,Nissan,Pathfinder,2018,Hatchback,Diesel,Automatic,Abuja,22,10246252.3,225417550.6,CarPoint,Returning
+337,17/12/2021,Nissan,Sentra,2021,Sedan,Hybrid,Automatic,Abuja,10,11191717.88,111917178.8,CarPoint,Returning
+338,04/07/2023,Honda,CR-V,2018,Truck,Electric,Automatic,Ibadan,13,25853974.25,336101665.3,AutoNation,Returning
+339,13/07/2019,Volkswagen,Tiguan,2021,SUV,Petrol,Manual,Kano,24,35890512.07,861372289.7,MegaMotors,Returning
+340,12/07/2021,BMW,3 Series,2020,Sedan,Electric,Manual,Lagos,6,19417361.18,116504167.1,DriveX,Returning
+341,30/07/2024,Volkswagen,Tiguan,2024,Truck,Electric,Manual,Kano,22,10998200.79,241960417.4,DriveX,New
+342,09/10/2019,Hyundai,Santa Fe,2018,Truck,Diesel,Manual,Abuja,19,26392405.29,501455700.5,SpeedHub,Returning
+343,16/01/2022,Hyundai,Kona,2020,Hatchback,Diesel,Automatic,Port Harcourt,22,36110639.74,794434074.3,AutoNation,Returning
+344,24/05/2022,Hyundai,Santa Fe,2022,SUV,Electric,Automatic,Ibadan,25,36454357.93,911358948.3,CarPoint,Returning
+345,19/03/2019,Kia,Rio,2022,Sedan,Hybrid,Manual,Abuja,18,11827680.26,212898244.7,MegaMotors,New
+346,23/09/2020,Nissan,Sentra,2020,Sedan,Electric,Automatic,Port Harcourt,23,31992946.85,735837777.6,DriveX,New
+347,06/10/2024,Honda,CR-V,2019,Sedan,Electric,Manual,Abuja,17,13023205.7,221394496.9,CarPoint,New
+348,30/05/2024,Honda,Accord,2022,Truck,Diesel,Automatic,Ibadan,14,23520765.73,329290720.2,DriveX,Returning
+349,13/05/2019,Hyundai,Santa Fe,2018,Sedan,Hybrid,Automatic,Ibadan,19,37418853.9,710958224.1,SpeedHub,Returning
+350,10/06/2021,Mercedes,GLC,2022,Sedan,Electric,Manual,Kano,15,30723466.47,460851997.1,SpeedHub,Returning
+351,07/03/2024,Ford,Edge,2019,SUV,Petrol,Automatic,Lagos,14,9796459.23,137150429.2,CarPoint,Returning
+352,31/07/2020,Nissan,Sentra,2022,SUV,Petrol,Automatic,Port Harcourt,10,39240138.07,392401380.7,SpeedHub,New
+353,18/05/2020,Volkswagen,Jetta,2020,SUV,Diesel,Manual,Port Harcourt,4,32523327.98,130093311.9,AutoNation,New
+354,15/03/2024,Nissan,Pathfinder,2020,SUV,Electric,Automatic,Kano,3,43326789.81,129980369.4,CarPoint,New
+355,10/11/2024,Volkswagen,Jetta,2019,SUV,Electric,Manual,Ibadan,22,21656198.52,476436367.4,DriveX,New
+356,28/06/2024,BMW,5 Series,2018,Hatchback,Diesel,Automatic,Ibadan,1,28727318.96,28727318.96,DriveX,New
+357,16/08/2021,Volkswagen,Passat,2022,Hatchback,Electric,Automatic,Kano,4,25032319.4,100129277.6,AutoNation,New
+358,11/07/2019,Ford,Explorer,2018,Hatchback,Petrol,Automatic,Lagos,16,10282188.73,164515019.7,SpeedHub,Returning
+359,24/06/2021,Kia,Rio,2022,Truck,Diesel,Automatic,Kano,9,15946014.58,143514131.2,SpeedHub,Returning
+360,27/10/2019,Toyota,Corolla,2021,Hatchback,Electric,Manual,Ibadan,2,43607915.45,87215830.9,AutoNation,New
+361,16/02/2023,Honda,Pilot,2020,Sedan,Petrol,Manual,Kano,3,41655930.06,124967790.2,CarPoint,New
+362,14/05/2024,Volkswagen,Passat,2024,Sedan,Electric,Manual,Lagos,8,13625536.42,109004291.4,DriveX,Returning
+363,24/03/2020,Toyota,Camry,2022,Truck,Hybrid,Automatic,Lagos,3,8995297.45,26985892.35,MegaMotors,Returning
+364,06/11/2021,BMW,3 Series,2023,Truck,Hybrid,Automatic,Ibadan,7,25288369.66,177018587.6,AutoNation,Returning
+365,25/04/2023,BMW,5 Series,2020,Sedan,Hybrid,Manual,Kano,21,39140886.45,821958615.5,CarPoint,Returning
+366,26/11/2022,Toyota,Camry,2019,Hatchback,Diesel,Automatic,Ibadan,14,16392241.51,229491381.1,AutoNation,Returning
+367,10/02/2020,Honda,CR-V,2024,Truck,Petrol,Automatic,Kano,9,21824134.45,196417210.1,MegaMotors,Returning
+368,13/10/2024,BMW,X5,2024,Sedan,Hybrid,Automatic,Lagos,1,21743940.19,21743940.19,CarPoint,Returning
+369,05/02/2022,Nissan,Pathfinder,2022,Truck,Electric,Automatic,Lagos,7,23712402.1,165986814.7,CarPoint,New
+370,14/12/2019,Ford,Escape,2024,SUV,Hybrid,Automatic,Port Harcourt,21,37660203.72,790864278.1,MegaMotors,New
+371,20/07/2019,Nissan,Sentra,2020,Hatchback,Petrol,Manual,Kano,2,35259824.07,70519648.14,AutoNation,Returning
+372,16/04/2024,Toyota,Corolla,2023,Sedan,Diesel,Automatic,Abuja,13,43016355.43,559212620.6,DriveX,Returning
+373,17/09/2019,Hyundai,Elantra,2022,SUV,Petrol,Manual,Lagos,19,32673143.04,620789717.8,CarPoint,New
+374,19/04/2019,Volkswagen,Tiguan,2021,Sedan,Electric,Automatic,Abuja,25,34800388.97,870009724.3,CarPoint,New
+375,10/03/2022,Hyundai,Santa Fe,2024,Sedan,Electric,Manual,Port Harcourt,9,28267147.89,254404331,MegaMotors,New
+376,27/05/2022,Toyota,Highlander,2023,SUV,Diesel,Manual,Port Harcourt,4,21805334.72,87221338.88,DriveX,New
+377,19/01/2021,Ford,Escape,2022,SUV,Hybrid,Automatic,Ibadan,21,16501948.18,346540911.8,MegaMotors,Returning
+378,09/04/2022,Nissan,Altima,2018,Sedan,Electric,Manual,Lagos,9,18953990.28,170585912.5,CarPoint,New
+379,15/07/2022,Toyota,RAV4,2020,Hatchback,Hybrid,Automatic,Kano,3,44421116.15,133263348.5,SpeedHub,Returning
+380,17/05/2020,Nissan,Sentra,2021,Truck,Petrol,Manual,Lagos,21,40042375.26,840889880.5,SpeedHub,New
+381,18/12/2019,Nissan,Sentra,2023,Truck,Electric,Manual,Port Harcourt,16,24338279.21,389412467.4,MegaMotors,New
+382,19/01/2020,Toyota,Corolla,2024,Hatchback,Hybrid,Manual,Ibadan,18,26404183.89,475275310,DriveX,New
+383,09/02/2019,Kia,Rio,2024,Truck,Hybrid,Automatic,Port Harcourt,6,12442604.95,74655629.7,AutoNation,New
+384,06/06/2019,Mercedes,C-Class,2023,Sedan,Hybrid,Automatic,Lagos,12,38357359.25,460288311,SpeedHub,Returning
+385,22/05/2021,Honda,CR-V,2018,Truck,Hybrid,Manual,Lagos,9,29366784.64,264301061.8,MegaMotors,New
+386,07/02/2020,Volkswagen,Tiguan,2019,SUV,Electric,Manual,Port Harcourt,2,27144438.14,54288876.28,CarPoint,Returning
+387,19/06/2023,Toyota,Camry,2022,Hatchback,Diesel,Automatic,Abuja,21,42668789.78,896044585.4,SpeedHub,New
+388,22/01/2023,Ford,Edge,2022,Sedan,Hybrid,Automatic,Abuja,10,39907917.64,399079176.4,MegaMotors,New
+389,21/01/2024,Honda,Accord,2020,SUV,Electric,Manual,Kano,1,10864498.42,10864498.42,MegaMotors,New
+390,21/08/2024,Mercedes,GLC,2021,Sedan,Hybrid,Automatic,Kano,18,12161753.21,218911557.8,MegaMotors,New
+391,04/05/2021,Honda,CR-V,2021,SUV,Petrol,Manual,Lagos,12,39623409.11,475480909.3,AutoNation,Returning
+392,04/11/2024,Hyundai,Elantra,2022,Sedan,Electric,Manual,Kano,19,29656613.96,563475665.2,SpeedHub,New
+393,21/06/2019,Kia,Rio,2021,Sedan,Diesel,Manual,Abuja,3,26679579.2,80038737.6,MegaMotors,Returning
+394,17/10/2022,Nissan,Pathfinder,2023,SUV,Diesel,Automatic,Lagos,5,28687447.38,143437236.9,DriveX,New
+395,20/11/2022,Toyota,Corolla,2020,Sedan,Hybrid,Manual,Lagos,18,8476540.68,152577732.2,MegaMotors,New
+396,13/09/2024,Kia,Seltos,2021,SUV,Hybrid,Automatic,Lagos,21,43491758.78,913326934.4,MegaMotors,Returning
+397,30/09/2023,Kia,Sportage,2023,SUV,Diesel,Manual,Lagos,6,42646674.64,255880047.8,CarPoint,New
+398,01/04/2023,Honda,CR-V,2020,SUV,Petrol,Automatic,Lagos,21,25771828.86,541208406.1,DriveX,Returning
+399,25/01/2020,Ford,Explorer,2021,Hatchback,Hybrid,Automatic,Port Harcourt,1,11675793.8,11675793.8,MegaMotors,New
+400,26/12/2019,Lexus,LX,2018,SUV,Petrol,Manual,Port Harcourt,21,44936954.32,943676040.7,SpeedHub,Returning
+401,18/09/2019,Hyundai,Elantra,2018,Hatchback,Hybrid,Automatic,Lagos,18,15925438.31,286657889.6,MegaMotors,New
+402,03/09/2022,Mercedes,E-Class,2021,SUV,Petrol,Manual,Kano,16,28863098.49,461809575.8,AutoNation,New
+403,11/10/2023,Lexus,RX,2022,Hatchback,Electric,Manual,Lagos,20,11997799.5,239955990,MegaMotors,Returning
+404,21/02/2021,Kia,Rio,2024,Hatchback,Diesel,Manual,Ibadan,16,14503411.2,232054579.2,MegaMotors,New
+405,10/09/2019,Toyota,Highlander,2020,SUV,Electric,Automatic,Port Harcourt,17,42953905.11,730216386.9,DriveX,Returning
+406,22/07/2021,Mercedes,GLC,2024,Sedan,Petrol,Automatic,Abuja,12,12716132.46,152593589.5,CarPoint,New
+407,29/11/2021,Honda,Pilot,2020,SUV,Diesel,Manual,Lagos,11,31188744.68,343076191.5,CarPoint,New
+408,10/07/2023,Ford,Edge,2023,Truck,Electric,Automatic,Abuja,4,32804467.91,131217871.6,DriveX,New
+409,15/03/2021,Lexus,LX,2020,Truck,Hybrid,Automatic,Port Harcourt,14,15779444.55,220912223.7,MegaMotors,New
+410,19/06/2022,BMW,X3,2018,Truck,Hybrid,Automatic,Lagos,19,41266389.51,784061400.7,SpeedHub,New
+411,16/01/2023,Honda,Accord,2024,Hatchback,Diesel,Automatic,Abuja,10,8073791.33,80737913.3,CarPoint,New
+412,02/06/2020,Ford,Focus,2019,Hatchback,Petrol,Automatic,Kano,10,44600710.11,446007101.1,MegaMotors,Returning
+413,03/05/2023,Lexus,ES,2022,SUV,Electric,Manual,Port Harcourt,20,39764739.65,795294793,AutoNation,Returning
+414,19/10/2019,Mercedes,C-Class,2021,Hatchback,Hybrid,Manual,Port Harcourt,5,28351742.03,141758710.2,SpeedHub,New
+415,30/04/2023,Honda,Civic,2021,Truck,Petrol,Automatic,Kano,2,11690477.87,23380955.74,MegaMotors,Returning
+416,14/09/2022,Honda,Accord,2022,SUV,Diesel,Manual,Ibadan,13,32407497.75,421297470.8,AutoNation,Returning
+417,12/09/2019,Nissan,Sentra,2022,Hatchback,Electric,Manual,Ibadan,9,13656443.7,122907993.3,AutoNation,Returning
+418,01/05/2020,Hyundai,Tucson,2020,SUV,Diesel,Automatic,Port Harcourt,2,16307826.26,32615652.52,MegaMotors,New
+419,23/06/2021,Ford,Focus,2023,Sedan,Diesel,Manual,Port Harcourt,25,31234617.4,780865435,MegaMotors,Returning
+420,30/03/2019,Toyota,Camry,2024,SUV,Diesel,Manual,Abuja,5,39947892.27,199739461.4,AutoNation,Returning
+421,15/11/2021,Honda,Accord,2023,SUV,Diesel,Automatic,Port Harcourt,5,8186552.87,40932764.35,AutoNation,Returning
+422,30/11/2024,Kia,Sportage,2021,Hatchback,Petrol,Automatic,Lagos,3,13602064.21,40806192.63,AutoNation,Returning
+423,10/07/2020,BMW,3 Series,2023,SUV,Electric,Manual,Ibadan,12,27017477.1,324209725.2,SpeedHub,Returning
+424,15/04/2019,Ford,Explorer,2018,Truck,Diesel,Automatic,Lagos,21,21614228,453898788,MegaMotors,Returning
+425,06/10/2022,Nissan,Sentra,2024,SUV,Petrol,Automatic,Kano,22,38785451.22,853279926.8,CarPoint,New
+426,09/03/2024,Hyundai,Kona,2019,SUV,Electric,Manual,Lagos,12,17574491.55,210893898.6,SpeedHub,Returning
+427,08/02/2022,Toyota,Corolla,2024,Truck,Hybrid,Manual,Kano,3,34960877.44,104882632.3,DriveX,New
+428,03/12/2023,Kia,Sportage,2021,SUV,Petrol,Automatic,Lagos,4,12031907.6,48127630.4,DriveX,Returning
+429,16/12/2019,Mercedes,C-Class,2021,Truck,Electric,Manual,Port Harcourt,18,24047146.2,432848631.6,AutoNation,New
+430,13/02/2021,Kia,Sorento,2019,Truck,Hybrid,Manual,Lagos,5,39148341.05,195741705.3,CarPoint,Returning
+431,01/11/2023,Kia,Rio,2023,Hatchback,Hybrid,Manual,Lagos,10,16802242.03,168022420.3,MegaMotors,Returning
+432,04/04/2022,Lexus,NX,2020,Hatchback,Petrol,Manual,Lagos,10,23033967.67,230339676.7,DriveX,New
+433,30/10/2020,Hyundai,Tucson,2021,SUV,Petrol,Automatic,Kano,5,29733630.9,148668154.5,MegaMotors,Returning
+434,16/04/2023,Ford,Escape,2022,SUV,Electric,Manual,Port Harcourt,14,28613087.43,400583224,SpeedHub,New
+435,31/01/2022,Kia,Sportage,2018,Hatchback,Diesel,Manual,Ibadan,8,43004846.8,344038774.4,DriveX,Returning
+436,22/05/2024,Hyundai,Elantra,2024,Hatchback,Petrol,Manual,Lagos,18,28136147.07,506450647.3,CarPoint,New
+437,25/08/2020,Lexus,RX,2024,SUV,Electric,Automatic,Ibadan,13,29273719.84,380558357.9,CarPoint,Returning
+438,01/12/2022,Nissan,Rogue,2023,Sedan,Diesel,Manual,Kano,11,10445067.45,114895742,MegaMotors,Returning
+439,27/01/2019,Mercedes,E-Class,2023,SUV,Petrol,Manual,Ibadan,9,31713661.25,285422951.3,DriveX,Returning
+440,20/06/2021,Kia,Seltos,2021,SUV,Diesel,Manual,Port Harcourt,22,12479915,274558130,DriveX,Returning
+441,13/10/2019,Honda,Accord,2019,Truck,Electric,Manual,Ibadan,14,25493390.66,356907469.2,DriveX,Returning
+442,10/06/2019,Honda,Pilot,2021,Hatchback,Petrol,Automatic,Lagos,5,20271920.21,101359601.1,AutoNation,New
+443,14/10/2022,Honda,Civic,2020,Hatchback,Petrol,Manual,Port Harcourt,24,13309170.15,319420083.6,SpeedHub,New
+444,21/12/2024,Honda,Civic,2021,Hatchback,Hybrid,Automatic,Lagos,21,8387359.16,176134542.4,SpeedHub,Returning
+445,23/07/2020,Kia,Sorento,2020,Truck,Electric,Automatic,Port Harcourt,12,18167474.29,218009691.5,MegaMotors,Returning
+446,06/08/2023,BMW,X3,2024,Hatchback,Petrol,Manual,Lagos,16,23892666.12,382282657.9,SpeedHub,New
+447,08/08/2019,Toyota,RAV4,2022,Truck,Hybrid,Automatic,Lagos,20,13862957.03,277259140.6,DriveX,New
+448,23/10/2022,Volkswagen,Tiguan,2020,Truck,Electric,Manual,Ibadan,2,22240258.5,44480517,DriveX,Returning
+449,11/11/2020,Hyundai,Santa Fe,2019,Sedan,Hybrid,Automatic,Port Harcourt,21,41343595.84,868215512.6,SpeedHub,New
+450,01/04/2019,Toyota,Corolla,2022,SUV,Electric,Manual,Port Harcourt,6,24732611.13,148395666.8,DriveX,New
+451,20/04/2020,Ford,Explorer,2018,Sedan,Diesel,Automatic,Lagos,5,20027353.09,100136765.5,CarPoint,New
+452,10/07/2024,Hyundai,Kona,2022,Truck,Electric,Manual,Lagos,17,44411945.14,755003067.4,SpeedHub,New
+453,20/06/2024,Hyundai,Santa Fe,2023,Sedan,Hybrid,Manual,Kano,20,35915171.87,718303437.4,AutoNation,Returning
+454,13/02/2021,Mercedes,GLE,2023,Sedan,Diesel,Automatic,Ibadan,19,9874374.91,187613123.3,SpeedHub,New
+455,23/11/2023,Kia,Rio,2022,Hatchback,Hybrid,Automatic,Abuja,5,22623633.29,113118166.5,AutoNation,Returning
+456,15/07/2021,Nissan,Rogue,2021,SUV,Electric,Manual,Kano,18,44654524.56,803781442.1,DriveX,Returning
+457,23/07/2020,Mercedes,GLC,2024,SUV,Diesel,Manual,Lagos,16,27780579.22,444489267.5,SpeedHub,New
+458,16/09/2020,Hyundai,Elantra,2021,Hatchback,Diesel,Manual,Kano,3,28942970.59,86828911.77,AutoNation,New
+459,10/11/2023,BMW,X3,2019,Sedan,Diesel,Manual,Ibadan,18,29667358.71,534012456.8,SpeedHub,New
+460,04/09/2022,Toyota,Highlander,2021,Sedan,Electric,Manual,Kano,4,15565003.03,62260012.12,DriveX,Returning
+461,06/09/2020,Ford,Edge,2024,Hatchback,Electric,Automatic,Port Harcourt,8,17051674.67,136413397.4,MegaMotors,New
+462,13/10/2022,Mercedes,E-Class,2020,Truck,Hybrid,Manual,Ibadan,8,32770868.37,262166947,DriveX,New
+463,29/05/2020,Ford,Edge,2022,Sedan,Hybrid,Manual,Lagos,17,30871575.04,524816775.7,SpeedHub,New
+464,06/11/2020,Nissan,Sentra,2024,Hatchback,Electric,Automatic,Abuja,23,35187698.01,809317054.2,MegaMotors,Returning
+465,17/09/2019,Lexus,RX,2020,Sedan,Diesel,Manual,Ibadan,13,13304154.07,172954002.9,AutoNation,Returning
+466,22/04/2019,Lexus,LX,2020,Hatchback,Electric,Automatic,Port Harcourt,5,20175715.89,100878579.5,AutoNation,Returning
+467,27/04/2023,BMW,3 Series,2021,Sedan,Hybrid,Manual,Lagos,17,18808633.32,319746766.4,CarPoint,Returning
+468,02/06/2022,Honda,Civic,2018,Sedan,Diesel,Manual,Ibadan,21,18491900.8,388329916.8,DriveX,New
+469,08/04/2022,Honda,Accord,2023,Hatchback,Hybrid,Automatic,Abuja,8,9127076.29,73016610.32,AutoNation,New
+470,31/01/2021,BMW,5 Series,2024,SUV,Hybrid,Manual,Ibadan,3,38322128.08,114966384.2,DriveX,Returning
+471,02/03/2022,Toyota,RAV4,2019,Truck,Petrol,Manual,Ibadan,24,21342861.17,512228668.1,CarPoint,New
+472,06/12/2019,Lexus,NX,2021,Hatchback,Electric,Automatic,Abuja,4,39382818.99,157531276,SpeedHub,Returning
+473,05/10/2023,Hyundai,Kona,2024,Hatchback,Diesel,Automatic,Kano,14,10579795.49,148117136.9,DriveX,Returning
+474,22/12/2023,Toyota,RAV4,2019,Hatchback,Diesel,Automatic,Kano,8,18846396.9,150771175.2,CarPoint,New
+475,02/08/2021,Lexus,RX,2023,Hatchback,Hybrid,Automatic,Kano,19,27277456.24,518271668.6,CarPoint,Returning
+476,30/08/2024,BMW,3 Series,2019,SUV,Diesel,Automatic,Lagos,9,12609508.34,113485575.1,DriveX,Returning
+477,01/02/2021,Honda,Civic,2019,Truck,Petrol,Automatic,Port Harcourt,6,28353387.75,170120326.5,SpeedHub,Returning
+478,05/09/2020,Kia,Rio,2018,SUV,Hybrid,Automatic,Abuja,15,32852189.46,492782841.9,SpeedHub,Returning
+479,20/05/2023,Toyota,Corolla,2021,SUV,Diesel,Manual,Port Harcourt,21,23737710.93,498491929.5,CarPoint,New
+480,12/08/2019,Hyundai,Tucson,2018,Hatchback,Diesel,Manual,Ibadan,23,25039075.15,575898728.5,CarPoint,Returning
+481,26/11/2024,Lexus,LX,2019,SUV,Petrol,Automatic,Abuja,22,42417648.62,933188269.6,DriveX,New
+482,07/04/2022,Lexus,NX,2024,Sedan,Petrol,Automatic,Abuja,24,10153349.93,243680398.3,DriveX,New
+483,02/03/2020,Lexus,LX,2024,Hatchback,Electric,Manual,Port Harcourt,10,24518318.98,245183189.8,AutoNation,New
+484,17/03/2022,Hyundai,Kona,2019,Truck,Diesel,Automatic,Ibadan,8,33891267.12,271130137,CarPoint,Returning
+485,21/02/2024,BMW,X5,2018,Sedan,Diesel,Automatic,Kano,2,40408218.58,80816437.16,CarPoint,New
+486,22/11/2019,Mercedes,GLE,2024,Hatchback,Petrol,Manual,Ibadan,9,26217436.43,235956927.9,DriveX,New
+487,27/11/2024,Volkswagen,Passat,2019,Truck,Hybrid,Manual,Lagos,24,21340114.18,512162740.3,SpeedHub,New
+488,02/04/2024,BMW,5 Series,2018,SUV,Diesel,Manual,Ibadan,8,24647114.11,197176912.9,AutoNation,Returning
+489,30/06/2019,Lexus,ES,2021,Hatchback,Diesel,Manual,Ibadan,20,12215294.83,244305896.6,DriveX,New
+490,14/07/2023,Lexus,ES,2022,Sedan,Diesel,Automatic,Kano,11,9726268.08,106988948.9,AutoNation,New
+491,29/08/2023,Volkswagen,Passat,2022,Sedan,Petrol,Manual,Ibadan,5,37077308.19,185386541,DriveX,Returning
+492,18/10/2024,Honda,CR-V,2021,Truck,Petrol,Automatic,Port Harcourt,19,37163504.32,706106582.1,CarPoint,New
+493,04/12/2023,Mercedes,C-Class,2021,Hatchback,Diesel,Manual,Lagos,2,38068183.98,76136367.96,SpeedHub,Returning
+494,05/04/2024,Hyundai,Elantra,2021,Sedan,Electric,Manual,Ibadan,25,10883737.81,272093445.3,CarPoint,New
+495,30/03/2020,Lexus,NX,2022,Hatchback,Hybrid,Manual,Port Harcourt,2,39723940.47,79447880.94,CarPoint,New
+496,21/08/2020,Kia,Sorento,2019,Hatchback,Diesel,Manual,Port Harcourt,14,39794785.94,557127003.2,DriveX,New
+497,24/04/2019,Honda,Pilot,2019,Truck,Electric,Automatic,Lagos,6,35286086.44,211716518.6,MegaMotors,Returning
+498,13/12/2019,Kia,Sportage,2019,Hatchback,Diesel,Automatic,Kano,2,9512584.31,19025168.62,AutoNation,Returning
+499,02/07/2021,Hyundai,Tucson,2024,SUV,Hybrid,Automatic,Lagos,20,12827627.36,256552547.2,SpeedHub,New
+500,06/12/2019,Mercedes,GLE,2022,Sedan,Hybrid,Automatic,Abuja,22,15186387.55,334100526.1,SpeedHub,Returning
+501,19/02/2024,Volkswagen,Atlas,2021,Hatchback,Hybrid,Automatic,Kano,24,17316783.36,415602800.6,SpeedHub,New
+502,17/10/2024,Lexus,RX,2018,Hatchback,Hybrid,Manual,Lagos,10,32071770.89,320717708.9,SpeedHub,Returning
+503,28/11/2020,Lexus,ES,2018,Sedan,Petrol,Manual,Lagos,5,28316984.76,141584923.8,AutoNation,New
+504,01/06/2024,Kia,Sorento,2022,Sedan,Hybrid,Automatic,Port Harcourt,16,30046027.66,480736442.6,SpeedHub,New
+505,07/03/2023,BMW,X3,2024,Truck,Electric,Manual,Lagos,3,23360664.12,70081992.36,AutoNation,New
+506,08/07/2019,Lexus,ES,2021,SUV,Hybrid,Automatic,Ibadan,20,29474158.44,589483168.8,SpeedHub,New
+507,28/06/2020,Kia,Rio,2019,Truck,Petrol,Manual,Abuja,13,24455010.72,317915139.4,MegaMotors,Returning
+508,09/01/2021,Ford,Edge,2021,Truck,Diesel,Manual,Abuja,17,9003357.36,153057075.1,AutoNation,New
+509,02/02/2020,Mercedes,C-Class,2023,Truck,Diesel,Manual,Abuja,20,21304829.34,426096586.8,MegaMotors,Returning
+510,20/03/2019,Hyundai,Tucson,2024,Truck,Petrol,Automatic,Abuja,3,14436491.59,43309474.77,DriveX,New
+511,16/12/2019,Nissan,Sentra,2018,Hatchback,Diesel,Manual,Ibadan,15,44804574.32,672068614.8,SpeedHub,New
+512,29/06/2021,BMW,X3,2021,Truck,Hybrid,Manual,Abuja,8,41329349.7,330634797.6,SpeedHub,New
+513,02/03/2024,Ford,Edge,2020,Truck,Petrol,Manual,Kano,10,15685685.02,156856850.2,CarPoint,New
+514,07/11/2022,Kia,Sportage,2019,Sedan,Electric,Automatic,Ibadan,1,41957894.04,41957894.04,DriveX,Returning
+515,25/06/2024,Nissan,Rogue,2018,Truck,Electric,Manual,Abuja,5,34953337.62,174766688.1,MegaMotors,Returning
+516,21/07/2022,Hyundai,Kona,2019,Sedan,Diesel,Manual,Kano,3,14385092.31,43155276.93,MegaMotors,New
+517,20/01/2019,Toyota,Highlander,2024,SUV,Diesel,Manual,Ibadan,8,16944453.41,135555627.3,SpeedHub,Returning
+518,29/04/2022,Honda,CR-V,2024,Truck,Diesel,Manual,Lagos,20,13609014.19,272180283.8,CarPoint,New
+519,30/07/2022,Honda,CR-V,2022,SUV,Electric,Manual,Abuja,14,25063466.4,350888529.6,AutoNation,Returning
+520,04/10/2022,Kia,Rio,2020,Sedan,Hybrid,Automatic,Abuja,23,37395701.73,860101139.8,DriveX,New
+521,20/07/2024,BMW,X3,2019,Hatchback,Electric,Manual,Kano,20,31222788.48,624455769.6,SpeedHub,New
+522,16/07/2020,Toyota,Highlander,2022,SUV,Petrol,Manual,Kano,13,14714997.58,191294968.5,SpeedHub,Returning
+523,08/05/2020,Ford,Edge,2019,Sedan,Petrol,Manual,Ibadan,20,41906068.27,838121365.4,CarPoint,New
+524,16/06/2023,Mercedes,GLC,2024,SUV,Petrol,Automatic,Lagos,23,43128788.78,991962141.9,SpeedHub,New
+525,14/01/2019,Ford,Edge,2023,Sedan,Petrol,Manual,Lagos,7,11359249.06,79514743.42,AutoNation,New
+526,22/04/2023,Volkswagen,Passat,2022,SUV,Petrol,Manual,Lagos,17,34695256.45,589819359.7,DriveX,New
+527,02/02/2020,Kia,Seltos,2020,Sedan,Diesel,Manual,Abuja,23,14638108.56,336676496.9,MegaMotors,Returning
+528,16/01/2023,Lexus,RX,2024,Hatchback,Petrol,Manual,Kano,21,24328633.7,510901307.7,AutoNation,Returning
+529,29/08/2021,Honda,Pilot,2023,Sedan,Hybrid,Automatic,Kano,25,24078484.83,601962120.8,SpeedHub,Returning
+530,27/11/2021,Toyota,RAV4,2023,SUV,Petrol,Manual,Ibadan,5,26200047.8,131000239,AutoNation,Returning
+531,27/07/2024,Lexus,NX,2018,Sedan,Hybrid,Manual,Kano,1,39293228.11,39293228.11,AutoNation,Returning
+532,08/07/2024,Nissan,Altima,2024,SUV,Electric,Manual,Abuja,13,41448250.66,538827258.6,CarPoint,New
+533,23/03/2024,Honda,CR-V,2019,Truck,Diesel,Manual,Ibadan,24,19770166.74,474484001.8,CarPoint,New
+534,09/10/2023,Hyundai,Elantra,2019,Hatchback,Petrol,Manual,Kano,4,22937417.68,91749670.72,SpeedHub,Returning
+535,03/07/2021,Hyundai,Santa Fe,2018,Hatchback,Diesel,Manual,Kano,17,16258434.66,276393389.2,AutoNation,Returning
+536,02/12/2021,Toyota,RAV4,2021,Truck,Petrol,Manual,Port Harcourt,6,12041584.91,72249509.46,AutoNation,New
+537,21/08/2021,Ford,Explorer,2023,Hatchback,Electric,Automatic,Abuja,14,21203017.64,296842247,CarPoint,New
+538,20/01/2023,BMW,5 Series,2021,Sedan,Petrol,Manual,Port Harcourt,16,30306224.03,484899584.5,MegaMotors,Returning
+539,23/05/2022,Nissan,Rogue,2019,Truck,Hybrid,Automatic,Kano,17,44143104.68,750432779.6,MegaMotors,Returning
+540,18/05/2021,Volkswagen,Tiguan,2024,Sedan,Petrol,Automatic,Kano,2,16135271.19,32270542.38,CarPoint,Returning
+541,30/04/2022,BMW,X3,2024,Sedan,Diesel,Automatic,Port Harcourt,2,27685949.18,55371898.36,MegaMotors,Returning
+542,13/05/2020,BMW,X5,2022,Sedan,Diesel,Automatic,Lagos,4,41585904.79,166343619.2,CarPoint,New
+543,01/12/2021,Nissan,Sentra,2022,Hatchback,Electric,Manual,Abuja,23,35439771.9,815114753.7,SpeedHub,Returning
+544,28/06/2019,Hyundai,Elantra,2019,Truck,Petrol,Automatic,Port Harcourt,19,8027352.71,152519701.5,MegaMotors,Returning
+545,04/11/2024,Ford,Edge,2020,Hatchback,Diesel,Manual,Port Harcourt,16,41105934.26,657694948.2,MegaMotors,New
+546,03/09/2021,Volkswagen,Passat,2021,Sedan,Electric,Automatic,Abuja,18,33315791.49,599684246.8,CarPoint,Returning
+547,09/11/2022,BMW,3 Series,2020,Hatchback,Petrol,Automatic,Kano,19,13155090.41,249946717.8,SpeedHub,Returning
+548,14/09/2020,Hyundai,Tucson,2024,Hatchback,Electric,Manual,Port Harcourt,7,11348378.74,79438651.18,DriveX,Returning
+549,20/03/2019,BMW,3 Series,2019,Sedan,Electric,Automatic,Ibadan,9,33764717.8,303882460.2,SpeedHub,New
+550,03/09/2020,Lexus,RX,2020,Truck,Electric,Automatic,Kano,24,10264154.22,246339701.3,MegaMotors,New
+551,08/12/2023,Nissan,Altima,2018,SUV,Electric,Manual,Port Harcourt,25,35669498.77,891737469.3,SpeedHub,Returning
+552,08/06/2020,Toyota,Corolla,2021,SUV,Hybrid,Automatic,Ibadan,10,20921783.14,209217831.4,CarPoint,Returning
+553,17/10/2024,Hyundai,Elantra,2022,Hatchback,Electric,Manual,Port Harcourt,3,37105439.89,111316319.7,SpeedHub,New
+554,17/04/2021,Hyundai,Kona,2019,Sedan,Electric,Manual,Abuja,14,24416747.56,341834465.8,SpeedHub,New
+555,19/05/2020,Nissan,Pathfinder,2018,Sedan,Electric,Automatic,Ibadan,7,44991253.38,314938773.7,CarPoint,Returning
+556,31/08/2020,Honda,Accord,2022,Sedan,Petrol,Manual,Port Harcourt,17,13559633.33,230513766.6,CarPoint,New
+557,10/10/2022,BMW,3 Series,2024,Sedan,Electric,Manual,Lagos,20,24209002.54,484180050.8,DriveX,Returning
+558,07/01/2019,Ford,Explorer,2021,Sedan,Diesel,Manual,Lagos,11,11219267.1,123411938.1,SpeedHub,New
+559,15/07/2023,Nissan,Rogue,2022,Sedan,Diesel,Automatic,Kano,5,43628178.6,218140893,AutoNation,Returning
+560,06/05/2020,Lexus,LX,2021,Truck,Hybrid,Automatic,Lagos,12,11211717.84,134540614.1,MegaMotors,New
+561,29/09/2024,Lexus,LX,2023,Sedan,Hybrid,Manual,Ibadan,20,35729013.16,714580263.2,MegaMotors,New
+562,16/05/2021,Kia,Sorento,2018,SUV,Petrol,Automatic,Lagos,13,32945186.64,428287426.3,SpeedHub,New
+563,01/10/2022,Volkswagen,Tiguan,2020,Sedan,Electric,Manual,Kano,23,36720646.17,844574861.9,AutoNation,New
+564,24/08/2020,Mercedes,GLE,2022,Hatchback,Hybrid,Automatic,Port Harcourt,25,10285820.47,257145511.8,SpeedHub,New
+565,17/01/2021,Ford,Focus,2019,Sedan,Hybrid,Manual,Ibadan,22,39863251.16,876991525.5,DriveX,New
+566,12/04/2023,Mercedes,C-Class,2021,SUV,Hybrid,Automatic,Kano,6,31413216.75,188479300.5,DriveX,New
+567,07/01/2022,Ford,Escape,2024,Sedan,Petrol,Automatic,Abuja,8,8669402.79,69355222.32,AutoNation,Returning
+568,01/03/2023,Honda,Civic,2023,Truck,Diesel,Manual,Port Harcourt,24,11760352.25,282248454,AutoNation,Returning
+569,03/04/2019,Hyundai,Santa Fe,2020,Hatchback,Diesel,Manual,Lagos,19,38609860.87,733587356.5,CarPoint,New
+570,22/01/2020,Kia,Sorento,2022,Hatchback,Diesel,Manual,Port Harcourt,17,9161112.02,155738904.3,CarPoint,New
+571,01/06/2021,Mercedes,E-Class,2019,Sedan,Hybrid,Manual,Ibadan,23,29738369.26,683982493,MegaMotors,Returning
+572,04/05/2020,Kia,Seltos,2021,Hatchback,Petrol,Automatic,Abuja,12,42956785.87,515481430.4,SpeedHub,Returning
+573,27/07/2024,Volkswagen,Atlas,2021,Truck,Petrol,Manual,Abuja,1,42624930.81,42624930.81,CarPoint,Returning
+574,11/12/2020,Kia,Sorento,2021,Truck,Hybrid,Manual,Abuja,11,40435319.48,444788514.3,MegaMotors,New
+575,16/11/2023,Toyota,Camry,2021,Truck,Petrol,Automatic,Lagos,21,24621206.84,517045343.6,MegaMotors,New
+576,27/09/2020,Ford,Focus,2021,Hatchback,Electric,Automatic,Lagos,11,19852646.15,218379107.7,AutoNation,Returning
+577,01/03/2022,Nissan,Sentra,2024,Hatchback,Electric,Manual,Port Harcourt,25,44896968.4,1122424210,AutoNation,Returning
+578,01/04/2022,Mercedes,E-Class,2018,Hatchback,Hybrid,Manual,Abuja,16,18350902.92,293614446.7,MegaMotors,New
+579,19/06/2023,Volkswagen,Atlas,2023,SUV,Diesel,Automatic,Port Harcourt,20,18348849.34,366976986.8,AutoNation,New
+580,04/05/2023,Honda,Civic,2024,SUV,Electric,Automatic,Port Harcourt,6,40763294.04,244579764.2,CarPoint,Returning
+581,26/06/2020,Lexus,ES,2018,Truck,Petrol,Manual,Ibadan,20,42307561.4,846151228,AutoNation,Returning
+582,23/12/2021,Toyota,Corolla,2024,SUV,Hybrid,Automatic,Abuja,6,14582442.03,87494652.18,MegaMotors,New
+583,09/04/2020,BMW,X3,2024,SUV,Hybrid,Automatic,Kano,9,12923253.12,116309278.1,CarPoint,Returning
+584,28/04/2023,Kia,Sorento,2022,Hatchback,Electric,Automatic,Port Harcourt,3,9750041.78,29250125.34,SpeedHub,New
+585,27/07/2023,Ford,Escape,2019,SUV,Diesel,Manual,Abuja,17,21948657.92,373127184.6,SpeedHub,Returning
+586,09/06/2022,Mercedes,GLE,2022,SUV,Diesel,Manual,Lagos,19,23882998.41,453776969.8,MegaMotors,New
+587,16/12/2023,Volkswagen,Passat,2021,Sedan,Hybrid,Automatic,Port Harcourt,4,21399393.05,85597572.2,SpeedHub,Returning
+588,03/06/2020,Honda,Accord,2019,Truck,Petrol,Manual,Abuja,25,42653104.95,1066327624,MegaMotors,New
+589,25/09/2023,Nissan,Rogue,2020,Truck,Hybrid,Manual,Lagos,24,24497091.93,587930206.3,AutoNation,New
+590,24/09/2020,Mercedes,E-Class,2018,Truck,Electric,Manual,Kano,3,19925145.39,59775436.17,AutoNation,Returning
+591,15/02/2021,Volkswagen,Atlas,2021,Hatchback,Electric,Manual,Abuja,22,16115543.18,354541950,DriveX,Returning
+592,08/07/2022,Mercedes,E-Class,2022,SUV,Diesel,Manual,Ibadan,15,30804689.24,462070338.6,SpeedHub,Returning
+593,01/08/2021,BMW,5 Series,2019,Hatchback,Diesel,Automatic,Kano,14,19935907.28,279102701.9,CarPoint,Returning
+594,12/03/2024,Hyundai,Elantra,2024,SUV,Petrol,Automatic,Kano,8,38121787.81,304974302.5,AutoNation,Returning
+595,07/11/2024,Mercedes,E-Class,2022,Hatchback,Petrol,Manual,Lagos,18,41166612.27,740999020.9,DriveX,Returning
+596,09/12/2024,Mercedes,C-Class,2022,Truck,Electric,Automatic,Lagos,6,9578259.81,57469558.86,CarPoint,Returning
+597,25/05/2020,Nissan,Pathfinder,2020,Truck,Diesel,Automatic,Abuja,2,24849840.61,49699681.22,SpeedHub,Returning
+598,24/04/2019,Volkswagen,Tiguan,2020,Truck,Hybrid,Manual,Lagos,21,10594940.38,222493748,MegaMotors,New
+599,19/01/2023,Ford,Escape,2019,Hatchback,Diesel,Manual,Ibadan,1,15701309.17,15701309.17,SpeedHub,Returning
+600,27/11/2022,Lexus,ES,2021,SUV,Petrol,Automatic,Port Harcourt,19,34382132.94,653260525.9,AutoNation,New
+601,17/11/2021,Kia,Rio,2024,Hatchback,Petrol,Manual,Abuja,3,22695481.22,68086443.66,MegaMotors,New
+602,11/08/2020,Honda,Accord,2018,Truck,Diesel,Manual,Kano,19,8486880.64,161250732.2,AutoNation,Returning
+603,18/10/2023,Honda,Civic,2023,Hatchback,Electric,Manual,Abuja,20,36878664.34,737573286.8,SpeedHub,New
+604,30/05/2019,Nissan,Pathfinder,2020,Truck,Hybrid,Manual,Ibadan,15,10707387.38,160610810.7,MegaMotors,New
+605,17/04/2022,BMW,5 Series,2021,Sedan,Diesel,Manual,Ibadan,3,35293281.28,105879843.8,MegaMotors,New
+606,02/01/2020,Nissan,Altima,2020,Hatchback,Diesel,Manual,Lagos,6,13667420.19,82004521.14,SpeedHub,New
+607,15/02/2023,Nissan,Pathfinder,2021,Truck,Petrol,Automatic,Abuja,21,8488139.79,178250935.6,DriveX,Returning
+608,20/04/2021,Ford,Edge,2020,SUV,Electric,Manual,Port Harcourt,9,30040081.47,270360733.2,DriveX,Returning
+609,13/09/2023,Volkswagen,Jetta,2020,SUV,Electric,Manual,Ibadan,13,31777557.3,413108244.9,AutoNation,Returning
+610,15/02/2021,Volkswagen,Tiguan,2021,Hatchback,Diesel,Automatic,Port Harcourt,23,14599052.98,335778218.5,MegaMotors,Returning
+611,30/12/2021,Ford,Escape,2023,Hatchback,Diesel,Manual,Kano,23,29538927.2,679395325.6,MegaMotors,Returning
+612,26/05/2020,Hyundai,Tucson,2024,Truck,Hybrid,Automatic,Ibadan,6,25662413.2,153974479.2,CarPoint,Returning
+613,22/02/2024,Hyundai,Elantra,2021,Hatchback,Electric,Manual,Port Harcourt,25,11675853.43,291896335.8,SpeedHub,New
+614,12/07/2021,Ford,Focus,2018,Hatchback,Diesel,Manual,Kano,15,31154528.85,467317932.8,DriveX,Returning
+615,16/12/2020,Kia,Sportage,2021,SUV,Electric,Automatic,Port Harcourt,21,15604464.95,327693764,SpeedHub,New
+616,16/03/2024,BMW,5 Series,2019,Sedan,Electric,Manual,Port Harcourt,4,14029831.61,56119326.44,SpeedHub,New
+617,25/06/2022,Nissan,Pathfinder,2019,Truck,Electric,Manual,Ibadan,25,44878149.77,1121953744,CarPoint,Returning
+618,10/04/2022,Mercedes,GLC,2024,Hatchback,Electric,Automatic,Ibadan,1,25973104.78,25973104.78,MegaMotors,Returning
+619,08/04/2024,Lexus,ES,2023,Hatchback,Hybrid,Automatic,Lagos,13,15574549.64,202469145.3,DriveX,Returning
+620,19/11/2021,Volkswagen,Passat,2019,Truck,Petrol,Manual,Port Harcourt,11,33716527.59,370881803.5,SpeedHub,Returning
+621,09/09/2019,Kia,Seltos,2024,SUV,Petrol,Automatic,Ibadan,6,24604494.44,147626966.6,MegaMotors,Returning
+622,03/03/2020,Ford,Escape,2024,Hatchback,Electric,Manual,Lagos,3,8980807.34,26942422.02,MegaMotors,Returning
+623,10/01/2024,Kia,Sorento,2024,Hatchback,Diesel,Automatic,Abuja,1,35069871.89,35069871.89,CarPoint,New
+624,23/12/2020,Honda,CR-V,2024,Sedan,Hybrid,Automatic,Ibadan,18,19798127.11,356366288,AutoNation,New
+625,16/11/2023,Volkswagen,Jetta,2018,SUV,Electric,Automatic,Kano,5,12897059.61,64485298.05,MegaMotors,Returning
+626,10/05/2024,Honda,Pilot,2024,Hatchback,Hybrid,Automatic,Lagos,4,11739469.28,46957877.12,AutoNation,Returning
+627,09/03/2022,Lexus,RX,2022,SUV,Petrol,Automatic,Port Harcourt,13,43830933.11,569802130.4,SpeedHub,New
+628,27/10/2023,Lexus,ES,2021,SUV,Diesel,Automatic,Lagos,3,42738071.82,128214215.5,SpeedHub,Returning
+629,28/05/2024,Honda,Accord,2023,Hatchback,Diesel,Automatic,Kano,7,17897454.46,125282181.2,MegaMotors,New
+630,05/05/2023,Hyundai,Santa Fe,2022,Hatchback,Hybrid,Automatic,Port Harcourt,21,33857118,710999478,CarPoint,New
+631,23/03/2019,Volkswagen,Passat,2022,SUV,Petrol,Manual,Port Harcourt,7,36276181.49,253933270.4,SpeedHub,Returning
+632,30/12/2024,Volkswagen,Passat,2018,Sedan,Electric,Manual,Lagos,1,31191186.44,31191186.44,MegaMotors,New
+633,23/10/2020,Toyota,Highlander,2020,SUV,Electric,Manual,Port Harcourt,21,37948690.53,796922501.1,CarPoint,Returning
+634,05/12/2021,Honda,Accord,2024,SUV,Hybrid,Automatic,Port Harcourt,21,37944198.61,796828170.8,CarPoint,New
+635,16/01/2020,Volkswagen,Tiguan,2021,SUV,Petrol,Manual,Lagos,5,28708976.38,143544881.9,MegaMotors,New
+636,12/03/2021,Nissan,Sentra,2024,SUV,Diesel,Automatic,Abuja,6,10632846.82,63797080.92,DriveX,Returning
+637,06/08/2020,Mercedes,GLE,2022,Sedan,Petrol,Automatic,Abuja,20,32500376.11,650007522.2,MegaMotors,Returning
+638,12/08/2020,Toyota,RAV4,2018,Truck,Diesel,Manual,Lagos,10,30637369.64,306373696.4,DriveX,New
+639,09/02/2020,Kia,Sportage,2022,Sedan,Hybrid,Automatic,Lagos,1,43609891.54,43609891.54,MegaMotors,Returning
+640,28/07/2023,Ford,Focus,2020,Hatchback,Electric,Automatic,Port Harcourt,12,44924136.25,539089635,AutoNation,New
+641,21/08/2024,Toyota,Highlander,2023,SUV,Diesel,Automatic,Port Harcourt,11,44646206.99,491108276.9,SpeedHub,New
+642,23/05/2023,Mercedes,C-Class,2022,Hatchback,Hybrid,Manual,Kano,19,31302821.98,594753617.6,MegaMotors,Returning
+643,17/10/2021,Ford,Focus,2021,SUV,Hybrid,Manual,Lagos,16,10213344.01,163413504.2,MegaMotors,Returning
+644,02/08/2021,Honda,CR-V,2021,Sedan,Electric,Manual,Kano,3,14989634.32,44968902.96,DriveX,New
+645,11/01/2023,Ford,Edge,2023,SUV,Hybrid,Manual,Port Harcourt,21,13361457.27,280590602.7,CarPoint,New
+646,21/01/2023,Ford,Edge,2018,Sedan,Electric,Manual,Port Harcourt,16,10940275.24,175044403.8,CarPoint,Returning
+647,26/05/2019,Toyota,RAV4,2018,Sedan,Diesel,Manual,Port Harcourt,9,28665065.64,257985590.8,MegaMotors,New
+648,02/09/2024,Toyota,Highlander,2024,Truck,Electric,Manual,Lagos,12,13495950.61,161951407.3,AutoNation,New
+649,06/10/2021,Mercedes,GLE,2023,SUV,Petrol,Manual,Kano,12,36988998.99,443867987.9,SpeedHub,New
+650,27/12/2021,Hyundai,Santa Fe,2020,Sedan,Hybrid,Manual,Abuja,21,38570848.04,809987808.8,CarPoint,New
+651,28/10/2020,Mercedes,GLE,2018,SUV,Petrol,Automatic,Abuja,13,21584346.8,280596508.4,AutoNation,Returning
+652,20/07/2021,Ford,Escape,2022,SUV,Hybrid,Automatic,Lagos,21,44628497.63,937198450.2,AutoNation,Returning
+653,20/05/2022,Volkswagen,Tiguan,2024,Truck,Hybrid,Automatic,Lagos,17,16483332.84,280216658.3,SpeedHub,New
+654,03/06/2023,Hyundai,Santa Fe,2020,SUV,Electric,Manual,Ibadan,1,24908402.72,24908402.72,CarPoint,New
+655,22/12/2023,Volkswagen,Passat,2024,Hatchback,Diesel,Manual,Ibadan,3,30607164.85,91821494.55,AutoNation,Returning
+656,13/08/2019,Lexus,NX,2023,SUV,Hybrid,Automatic,Port Harcourt,22,20150735.99,443316191.8,CarPoint,New
+657,08/05/2019,Ford,Edge,2019,Sedan,Petrol,Automatic,Abuja,7,31144451.9,218011163.3,AutoNation,Returning
+658,18/11/2024,Nissan,Sentra,2022,SUV,Electric,Automatic,Lagos,11,38931630.91,428247940,MegaMotors,New
+659,22/08/2019,Mercedes,E-Class,2019,Sedan,Petrol,Automatic,Lagos,13,38646294.8,502401832.4,AutoNation,New
+660,25/02/2019,Mercedes,E-Class,2021,Truck,Petrol,Manual,Port Harcourt,17,29196020.01,496332340.2,MegaMotors,New
+661,06/04/2019,Toyota,RAV4,2022,SUV,Petrol,Automatic,Kano,13,24723221.45,321401878.9,SpeedHub,New
+662,19/09/2023,Nissan,Sentra,2022,Hatchback,Electric,Automatic,Kano,3,16883748.95,50651246.85,SpeedHub,New
+663,22/07/2024,Kia,Rio,2019,Truck,Petrol,Automatic,Ibadan,19,42423692.53,806050158.1,SpeedHub,New
+664,26/11/2020,Ford,Edge,2023,Sedan,Electric,Automatic,Lagos,9,11846694.77,106620252.9,DriveX,Returning
+665,19/08/2019,Nissan,Altima,2022,SUV,Petrol,Automatic,Kano,20,21778710.92,435574218.4,AutoNation,New
+666,26/11/2023,Toyota,Camry,2021,Sedan,Diesel,Manual,Port Harcourt,14,28188135.79,394633901.1,CarPoint,New
+667,21/10/2019,Toyota,RAV4,2023,SUV,Electric,Manual,Lagos,5,27525914.27,137629571.4,CarPoint,Returning
+668,13/06/2022,Ford,Focus,2022,Sedan,Hybrid,Manual,Kano,9,10218887.39,91969986.51,AutoNation,Returning
+669,23/10/2022,Mercedes,E-Class,2022,SUV,Hybrid,Manual,Port Harcourt,12,22603626.34,271243516.1,SpeedHub,New
+670,08/02/2023,Volkswagen,Tiguan,2024,Truck,Electric,Manual,Kano,4,15442504.91,61770019.64,MegaMotors,New
+671,07/07/2021,Honda,Pilot,2021,Truck,Electric,Manual,Lagos,19,13599836.97,258396902.4,DriveX,New
+672,23/07/2022,Hyundai,Kona,2024,SUV,Diesel,Manual,Port Harcourt,11,20051446.21,220565908.3,AutoNation,Returning
+673,14/05/2019,Volkswagen,Atlas,2023,Truck,Electric,Manual,Kano,10,41585611.49,415856114.9,DriveX,New
+674,21/09/2024,Ford,Escape,2018,Hatchback,Hybrid,Manual,Ibadan,11,19283727.23,212120999.5,CarPoint,Returning
+675,12/11/2024,Nissan,Altima,2024,Hatchback,Electric,Automatic,Ibadan,24,36018617.27,864446814.5,AutoNation,New
+676,04/07/2019,Kia,Rio,2022,SUV,Electric,Automatic,Abuja,10,33036580.7,330365807,AutoNation,New
+677,13/01/2022,Mercedes,E-Class,2019,Hatchback,Petrol,Automatic,Abuja,15,31352262.64,470283939.6,MegaMotors,New
+678,13/01/2020,Ford,Focus,2024,Sedan,Petrol,Manual,Port Harcourt,12,44018208.99,528218507.9,DriveX,Returning
+679,17/01/2019,Honda,Civic,2021,Truck,Electric,Automatic,Ibadan,14,11230937.63,157233126.8,SpeedHub,New
+680,21/01/2024,Mercedes,GLC,2023,Truck,Petrol,Manual,Abuja,25,25862407.29,646560182.3,AutoNation,Returning
+681,04/12/2022,BMW,X5,2018,Hatchback,Hybrid,Automatic,Port Harcourt,20,9584863.65,191697273,CarPoint,New
+682,08/07/2022,Lexus,RX,2021,Hatchback,Diesel,Manual,Ibadan,10,23128307.06,231283070.6,DriveX,Returning
+683,01/09/2024,Mercedes,E-Class,2018,Truck,Electric,Manual,Port Harcourt,1,42373602.59,42373602.59,MegaMotors,New
+684,18/07/2020,Ford,Escape,2022,Truck,Electric,Manual,Abuja,5,16531831.54,82659157.7,MegaMotors,New
+685,30/10/2024,Mercedes,C-Class,2019,Truck,Hybrid,Manual,Kano,19,28214261.72,536070972.7,DriveX,New
+686,27/09/2020,Nissan,Pathfinder,2022,Sedan,Hybrid,Manual,Port Harcourt,11,17878725.4,196665979.4,SpeedHub,Returning
+687,21/08/2023,Volkswagen,Passat,2023,Hatchback,Hybrid,Manual,Abuja,15,15930252.02,238953780.3,DriveX,New
+688,12/01/2020,Kia,Sportage,2019,Sedan,Petrol,Manual,Port Harcourt,7,8974577.4,62822041.8,MegaMotors,Returning
+689,21/12/2020,Volkswagen,Tiguan,2018,Sedan,Petrol,Manual,Kano,18,25394333.21,457097997.8,MegaMotors,New
+690,11/01/2022,Honda,Pilot,2020,Truck,Electric,Automatic,Kano,7,11743674.89,82205724.23,CarPoint,Returning
+691,29/06/2023,Honda,CR-V,2023,Sedan,Hybrid,Automatic,Abuja,25,43428991.16,1085724779,DriveX,Returning
+692,19/04/2019,Toyota,Corolla,2021,Truck,Electric,Manual,Kano,7,13583334.02,95083338.14,SpeedHub,Returning
+693,23/08/2020,Lexus,LX,2020,Hatchback,Electric,Manual,Lagos,8,15431444.56,123451556.5,AutoNation,Returning
+694,02/12/2021,BMW,3 Series,2021,Hatchback,Diesel,Automatic,Lagos,6,33528617.13,201171702.8,CarPoint,Returning
+695,24/08/2020,Nissan,Rogue,2024,Sedan,Diesel,Manual,Kano,4,33829705.12,135318820.5,SpeedHub,Returning
+696,02/01/2022,Volkswagen,Passat,2022,Sedan,Electric,Automatic,Ibadan,12,36800440.43,441605285.2,MegaMotors,Returning
+697,16/05/2020,Volkswagen,Atlas,2019,Hatchback,Petrol,Automatic,Port Harcourt,3,21838260.51,65514781.53,DriveX,New
+698,17/10/2020,Nissan,Rogue,2024,Truck,Hybrid,Automatic,Kano,19,11177062.74,212364192.1,AutoNation,New
+699,25/11/2021,Honda,Pilot,2018,SUV,Diesel,Manual,Ibadan,12,33366177.53,400394130.4,AutoNation,New
+700,25/09/2023,Nissan,Sentra,2018,Truck,Hybrid,Automatic,Lagos,6,18032484.05,108194904.3,SpeedHub,Returning
+701,19/03/2022,Volkswagen,Jetta,2022,Hatchback,Diesel,Automatic,Ibadan,18,15659748.61,281875475,AutoNation,New
+702,08/12/2023,Volkswagen,Passat,2024,Truck,Electric,Automatic,Abuja,19,26412784.05,501842897,SpeedHub,Returning
+703,30/08/2023,Ford,Explorer,2020,Sedan,Diesel,Manual,Port Harcourt,21,19736452.78,414465508.4,DriveX,Returning
+704,06/10/2024,Nissan,Pathfinder,2023,Truck,Hybrid,Manual,Abuja,9,24959136.95,224632232.6,MegaMotors,New
+705,24/05/2021,Honda,Accord,2019,Hatchback,Electric,Automatic,Port Harcourt,5,13107087.88,65535439.4,MegaMotors,New
+706,07/01/2024,Mercedes,GLC,2024,SUV,Diesel,Automatic,Ibadan,17,8606101.58,146303726.9,AutoNation,New
+707,16/08/2019,Nissan,Altima,2022,Hatchback,Diesel,Automatic,Abuja,24,41566348.7,997592368.8,DriveX,New
+708,27/05/2023,Honda,Accord,2023,Sedan,Hybrid,Manual,Abuja,5,11140983.59,55704917.95,AutoNation,New
+709,29/11/2021,Honda,Accord,2020,Hatchback,Diesel,Manual,Port Harcourt,12,25327816.57,303933798.8,AutoNation,New
+710,27/10/2023,BMW,3 Series,2021,SUV,Electric,Automatic,Ibadan,12,37831833.01,453981996.1,CarPoint,New
+711,16/11/2019,Kia,Rio,2022,SUV,Diesel,Automatic,Abuja,12,18924765.78,227097189.4,CarPoint,New
+712,30/07/2021,Nissan,Altima,2023,Truck,Electric,Manual,Lagos,5,22019743.01,110098715.1,CarPoint,New
+713,15/01/2020,Volkswagen,Tiguan,2019,Truck,Hybrid,Manual,Ibadan,15,16535199.15,248027987.3,AutoNation,New
+714,08/07/2020,Mercedes,C-Class,2019,SUV,Hybrid,Automatic,Kano,11,25838289.19,284221181.1,CarPoint,New
+715,26/04/2022,Mercedes,GLC,2019,Hatchback,Hybrid,Manual,Lagos,18,24768553.99,445833971.8,AutoNation,New
+716,28/08/2020,Toyota,Corolla,2019,SUV,Petrol,Manual,Abuja,25,35046299.64,876157491,SpeedHub,Returning
+717,07/07/2022,Ford,Focus,2022,SUV,Petrol,Automatic,Lagos,18,19337749.37,348079488.7,SpeedHub,Returning
+718,30/09/2020,Kia,Sportage,2019,Truck,Petrol,Automatic,Abuja,18,31929058.6,574723054.8,MegaMotors,Returning
+719,22/04/2021,Nissan,Sentra,2019,Hatchback,Diesel,Manual,Port Harcourt,19,31716233.73,602608440.9,SpeedHub,New
+720,27/04/2020,Volkswagen,Passat,2022,Sedan,Hybrid,Manual,Kano,25,41469711.73,1036742793,MegaMotors,New
+721,14/12/2023,Honda,Civic,2022,Sedan,Diesel,Manual,Ibadan,21,37793821.06,793670242.3,SpeedHub,Returning
+722,08/03/2023,Kia,Sorento,2019,Sedan,Hybrid,Automatic,Lagos,12,17277680.2,207332162.4,MegaMotors,Returning
+723,08/06/2022,Honda,Civic,2021,Hatchback,Hybrid,Manual,Abuja,2,14491137.93,28982275.86,DriveX,New
+724,06/10/2021,BMW,5 Series,2020,Truck,Electric,Manual,Port Harcourt,22,25377667.03,558308674.7,MegaMotors,New
+725,21/12/2022,Volkswagen,Passat,2024,Hatchback,Diesel,Manual,Lagos,11,43673758.88,480411347.7,DriveX,New
+726,13/08/2020,Lexus,NX,2018,Hatchback,Diesel,Automatic,Ibadan,22,11763906.18,258805936,MegaMotors,New
+727,07/12/2019,BMW,5 Series,2022,Hatchback,Petrol,Manual,Kano,3,35943901.87,107831705.6,MegaMotors,New
+728,22/06/2022,Ford,Edge,2021,Sedan,Diesel,Manual,Kano,9,41858564.75,376727082.8,MegaMotors,Returning
+729,16/11/2021,Ford,Edge,2018,SUV,Hybrid,Automatic,Lagos,2,11713718.15,23427436.3,CarPoint,New
+730,13/09/2020,Lexus,RX,2022,Hatchback,Electric,Automatic,Lagos,10,16229802.16,162298021.6,SpeedHub,Returning
+731,18/07/2022,BMW,5 Series,2023,Sedan,Diesel,Manual,Kano,15,44438298.68,666574480.2,AutoNation,New
+732,16/05/2024,Ford,Edge,2023,Truck,Electric,Manual,Port Harcourt,20,8618515.63,172370312.6,DriveX,New
+733,24/08/2024,Kia,Rio,2020,Sedan,Electric,Automatic,Abuja,9,30875295.12,277877656.1,SpeedHub,New
+734,26/06/2023,Lexus,NX,2020,Hatchback,Hybrid,Automatic,Ibadan,23,44680475.92,1027650946,MegaMotors,Returning
+735,30/07/2022,Hyundai,Santa Fe,2023,SUV,Electric,Manual,Ibadan,7,12950183.71,90651285.97,AutoNation,Returning
+736,16/06/2024,Toyota,Highlander,2018,Truck,Hybrid,Automatic,Ibadan,4,17366931.72,69467726.88,CarPoint,New
+737,22/05/2023,Volkswagen,Atlas,2018,Truck,Hybrid,Manual,Port Harcourt,19,33062013.07,628178248.3,DriveX,Returning
+738,06/07/2019,Volkswagen,Passat,2020,Truck,Petrol,Automatic,Kano,20,31679538.01,633590760.2,MegaMotors,Returning
+739,12/09/2021,Mercedes,C-Class,2021,Sedan,Diesel,Manual,Abuja,12,29591983.13,355103797.6,AutoNation,New
+740,29/02/2020,Lexus,RX,2021,Sedan,Petrol,Automatic,Ibadan,24,26162068.8,627889651.2,DriveX,New
+741,09/03/2019,Volkswagen,Passat,2018,Sedan,Diesel,Manual,Ibadan,4,39575099.28,158300397.1,SpeedHub,Returning
+742,16/12/2023,Kia,Sportage,2023,Truck,Electric,Manual,Ibadan,16,9454673.93,151274782.9,DriveX,New
+743,19/07/2021,Mercedes,C-Class,2023,Sedan,Petrol,Automatic,Lagos,16,25170241.82,402723869.1,MegaMotors,New
+744,01/06/2022,Lexus,ES,2018,Truck,Diesel,Manual,Ibadan,7,18309602.26,128167215.8,CarPoint,New
+745,27/01/2023,BMW,3 Series,2022,Truck,Diesel,Manual,Port Harcourt,23,39271507.01,903244661.2,MegaMotors,Returning
+746,04/05/2021,Toyota,RAV4,2020,SUV,Electric,Manual,Kano,14,25073447.94,351028271.2,DriveX,Returning
+747,27/08/2021,Kia,Sportage,2020,Hatchback,Diesel,Automatic,Port Harcourt,25,33087681.7,827192042.5,SpeedHub,New
+748,06/12/2020,Toyota,Corolla,2024,Hatchback,Diesel,Automatic,Kano,9,25531126.13,229780135.2,DriveX,Returning
+749,15/02/2020,Toyota,RAV4,2022,Hatchback,Diesel,Automatic,Port Harcourt,17,32838419.3,558253128.1,MegaMotors,New
+750,30/07/2023,Lexus,NX,2020,SUV,Hybrid,Automatic,Abuja,8,9989675.31,79917402.48,AutoNation,Returning
+751,27/08/2022,Hyundai,Elantra,2019,Sedan,Hybrid,Automatic,Abuja,16,10109089.17,161745426.7,SpeedHub,New
+752,22/07/2024,Nissan,Pathfinder,2023,SUV,Petrol,Automatic,Kano,8,16327191.92,130617535.4,DriveX,Returning
+753,31/12/2021,Kia,Seltos,2022,SUV,Diesel,Automatic,Port Harcourt,20,23703250.48,474065009.6,SpeedHub,New
+754,22/07/2022,Volkswagen,Jetta,2020,Hatchback,Electric,Automatic,Kano,16,27540913.12,440654609.9,AutoNation,Returning
+755,06/01/2019,Honda,CR-V,2024,Sedan,Petrol,Automatic,Ibadan,18,39148856.69,704679420.4,DriveX,New
+756,28/07/2024,Mercedes,E-Class,2021,Truck,Hybrid,Automatic,Lagos,9,19773678.74,177963108.7,CarPoint,Returning
+757,14/08/2020,Lexus,NX,2023,Truck,Electric,Manual,Abuja,21,40023864.79,840501160.6,AutoNation,New
+758,21/12/2020,Hyundai,Tucson,2019,Hatchback,Diesel,Manual,Kano,3,31675037.36,95025112.08,DriveX,New
+759,03/05/2019,BMW,5 Series,2022,SUV,Hybrid,Automatic,Abuja,1,26223424.82,26223424.82,DriveX,Returning
+760,22/03/2021,Kia,Rio,2018,SUV,Electric,Automatic,Port Harcourt,15,43410736.27,651161044.1,MegaMotors,New
+761,24/07/2021,Hyundai,Tucson,2022,Truck,Hybrid,Manual,Port Harcourt,13,15603890.82,202850580.7,AutoNation,New
+762,07/04/2019,BMW,5 Series,2019,Truck,Electric,Automatic,Ibadan,6,21825583.18,130953499.1,MegaMotors,Returning
+763,09/02/2024,Nissan,Rogue,2023,Hatchback,Hybrid,Automatic,Ibadan,2,25055173.22,50110346.44,SpeedHub,New
+764,19/02/2022,Lexus,NX,2020,Truck,Electric,Manual,Port Harcourt,3,15254415.94,45763247.82,AutoNation,New
+765,22/02/2021,Hyundai,Tucson,2023,Truck,Hybrid,Manual,Ibadan,22,30624771.37,673744970.1,AutoNation,Returning
+766,12/04/2020,Lexus,ES,2022,Truck,Petrol,Manual,Abuja,4,32512755.98,130051023.9,MegaMotors,Returning
+767,16/11/2022,Volkswagen,Jetta,2018,Truck,Petrol,Automatic,Lagos,14,30984629.62,433784814.7,DriveX,New
+768,16/07/2022,Nissan,Sentra,2019,Hatchback,Electric,Automatic,Lagos,22,19119148.2,420621260.4,SpeedHub,New
+769,21/10/2022,Toyota,Corolla,2021,Truck,Electric,Automatic,Lagos,16,10503899.05,168062384.8,AutoNation,Returning
+770,01/03/2021,Toyota,Corolla,2024,Hatchback,Electric,Manual,Lagos,11,21292881.23,234221693.5,MegaMotors,New
+771,13/04/2024,Lexus,NX,2023,Hatchback,Diesel,Automatic,Abuja,6,31724477.26,190346863.6,SpeedHub,Returning
+772,16/04/2019,Kia,Sorento,2018,Truck,Petrol,Manual,Lagos,17,9100481.77,154708190.1,AutoNation,New
+773,25/12/2019,Kia,Sorento,2024,Hatchback,Electric,Manual,Kano,23,22100634.89,508314602.5,DriveX,Returning
+774,04/10/2020,BMW,3 Series,2020,SUV,Petrol,Manual,Abuja,7,28499120.51,199493843.6,CarPoint,Returning
+775,08/11/2024,Toyota,Highlander,2023,Hatchback,Hybrid,Automatic,Port Harcourt,20,16214318.25,324286365,MegaMotors,New
+776,25/02/2023,Ford,Edge,2019,Truck,Diesel,Automatic,Port Harcourt,6,39713812.11,238282872.7,DriveX,New
+777,01/10/2021,Toyota,Corolla,2019,Truck,Electric,Manual,Port Harcourt,3,11892295.69,35676887.07,DriveX,New
+778,06/10/2021,Honda,Pilot,2020,Sedan,Diesel,Manual,Ibadan,19,22585509.71,429124684.5,CarPoint,New
+779,08/09/2022,Honda,Accord,2024,Truck,Hybrid,Automatic,Abuja,11,17117466.34,188292129.7,AutoNation,New
+780,19/12/2024,Mercedes,GLE,2020,SUV,Electric,Automatic,Lagos,5,41114032.54,205570162.7,CarPoint,New
+781,09/11/2023,Nissan,Altima,2020,Sedan,Hybrid,Automatic,Abuja,18,21958418.06,395251525.1,DriveX,Returning
+782,29/07/2021,Nissan,Pathfinder,2023,Sedan,Petrol,Automatic,Abuja,19,25651143.13,487371719.5,MegaMotors,New
+783,16/07/2023,Honda,Accord,2018,SUV,Electric,Automatic,Abuja,9,40631973.35,365687760.2,AutoNation,Returning
+784,17/05/2024,Hyundai,Tucson,2020,Sedan,Petrol,Manual,Kano,25,16125675.88,403141897,CarPoint,Returning
+785,03/05/2021,Kia,Seltos,2023,Hatchback,Electric,Automatic,Port Harcourt,21,21982702.78,461636758.4,SpeedHub,New
+786,04/12/2021,Mercedes,GLC,2021,Hatchback,Hybrid,Manual,Abuja,17,16251383.3,276273516.1,MegaMotors,Returning
+787,10/05/2019,BMW,X5,2024,Hatchback,Diesel,Automatic,Abuja,4,39690743.2,158762972.8,MegaMotors,Returning
+788,31/01/2021,Hyundai,Kona,2023,Hatchback,Diesel,Manual,Port Harcourt,5,9474794.57,47373972.85,AutoNation,Returning
+789,17/11/2020,Nissan,Pathfinder,2022,Sedan,Electric,Manual,Abuja,1,30379412.52,30379412.52,SpeedHub,New
+790,13/10/2021,BMW,X5,2023,Truck,Electric,Automatic,Ibadan,9,11742444.63,105682001.7,CarPoint,Returning
+791,17/06/2020,BMW,5 Series,2021,SUV,Diesel,Automatic,Kano,18,10947832.64,197060987.5,CarPoint,Returning
+792,05/07/2019,Lexus,RX,2024,Sedan,Hybrid,Automatic,Kano,19,14791731.2,281042892.8,AutoNation,New
+793,12/11/2022,Mercedes,GLC,2022,Truck,Hybrid,Automatic,Kano,12,36173166.02,434077992.2,AutoNation,Returning
+794,17/06/2020,Hyundai,Santa Fe,2019,SUV,Electric,Automatic,Lagos,25,28864940.08,721623502,CarPoint,Returning
+795,29/09/2024,BMW,5 Series,2018,Sedan,Petrol,Manual,Kano,22,40014010.99,880308241.8,CarPoint,Returning
+796,20/02/2019,Hyundai,Tucson,2021,Sedan,Electric,Automatic,Lagos,25,12209094.99,305227374.8,MegaMotors,Returning
+797,19/01/2020,Honda,Accord,2018,Hatchback,Electric,Automatic,Kano,23,22120374.58,508768615.3,DriveX,New
+798,22/03/2021,Volkswagen,Tiguan,2019,Sedan,Hybrid,Automatic,Abuja,7,34600161.39,242201129.7,AutoNation,New
+799,15/11/2023,Mercedes,E-Class,2020,Truck,Diesel,Automatic,Lagos,25,37078926.03,926973150.8,SpeedHub,Returning
+800,10/08/2022,BMW,3 Series,2023,SUV,Hybrid,Automatic,Kano,18,14937267.94,268870822.9,DriveX,New
+801,09/06/2024,Ford,Focus,2021,Sedan,Hybrid,Manual,Lagos,4,16655597.77,66622391.08,MegaMotors,Returning
+802,20/02/2022,Volkswagen,Jetta,2021,Hatchback,Petrol,Automatic,Ibadan,25,35241283.59,881032089.8,CarPoint,New
+803,31/07/2022,Volkswagen,Passat,2020,Truck,Hybrid,Manual,Port Harcourt,11,14483849.36,159322343,AutoNation,Returning
+804,09/04/2019,Volkswagen,Jetta,2018,SUV,Diesel,Manual,Lagos,6,37433332.23,224599993.4,MegaMotors,Returning
+805,22/09/2023,Kia,Seltos,2019,Hatchback,Diesel,Automatic,Port Harcourt,5,39819604.41,199098022.1,MegaMotors,New
+806,14/09/2019,Toyota,RAV4,2018,SUV,Electric,Automatic,Kano,20,31586739.04,631734780.8,MegaMotors,New
+807,22/12/2019,Volkswagen,Tiguan,2020,Truck,Petrol,Automatic,Kano,6,9835766.18,59014597.08,DriveX,New
+808,21/03/2022,Nissan,Pathfinder,2024,Truck,Petrol,Manual,Port Harcourt,14,17815836.93,249421717,SpeedHub,Returning
+809,14/11/2024,Volkswagen,Jetta,2018,Hatchback,Electric,Automatic,Abuja,14,22855666.01,319979324.1,MegaMotors,Returning
+810,14/09/2019,Toyota,Camry,2021,Sedan,Hybrid,Manual,Port Harcourt,2,28628875.59,57257751.18,CarPoint,New
+811,26/01/2024,Honda,Civic,2018,SUV,Electric,Automatic,Port Harcourt,15,12304578.67,184568680.1,CarPoint,Returning
+812,26/12/2024,Volkswagen,Jetta,2021,SUV,Hybrid,Automatic,Abuja,8,32133230.41,257065843.3,MegaMotors,New
+813,29/07/2022,Kia,Sportage,2020,Truck,Hybrid,Manual,Ibadan,24,15971039.95,383304958.8,DriveX,New
+814,07/11/2021,Toyota,RAV4,2020,Truck,Petrol,Manual,Port Harcourt,2,43243786.29,86487572.58,MegaMotors,New
+815,12/11/2019,Volkswagen,Jetta,2021,Hatchback,Electric,Automatic,Abuja,24,31669244.41,760061865.8,CarPoint,New
+816,10/08/2022,Mercedes,GLE,2023,Truck,Petrol,Automatic,Ibadan,9,23665371.02,212988339.2,MegaMotors,New
+817,24/09/2024,Kia,Sportage,2023,Truck,Electric,Automatic,Ibadan,23,22666835.12,521337207.8,AutoNation,Returning
+818,14/09/2024,Mercedes,C-Class,2022,SUV,Electric,Automatic,Port Harcourt,15,44678769.76,670181546.4,MegaMotors,Returning
+819,17/04/2020,Honda,Civic,2019,Truck,Hybrid,Automatic,Abuja,16,27409843,438557488,AutoNation,Returning
+820,02/10/2021,Ford,Edge,2022,Truck,Hybrid,Automatic,Port Harcourt,6,42178456.51,253070739.1,MegaMotors,Returning
+821,23/01/2021,Ford,Focus,2019,Sedan,Petrol,Manual,Lagos,14,18791745.92,263084442.9,DriveX,New
+822,29/06/2023,Hyundai,Santa Fe,2024,Hatchback,Petrol,Automatic,Port Harcourt,13,9378886.71,121925527.2,DriveX,New
+823,20/09/2019,Nissan,Rogue,2018,Sedan,Petrol,Automatic,Kano,1,24928000.58,24928000.58,DriveX,New
+824,13/08/2023,Lexus,NX,2022,Truck,Electric,Manual,Ibadan,15,33217201.84,498258027.6,SpeedHub,New
+825,20/04/2019,Mercedes,GLC,2019,Hatchback,Hybrid,Automatic,Port Harcourt,14,21932572.61,307056016.5,MegaMotors,Returning
+826,04/08/2020,Toyota,Camry,2022,SUV,Hybrid,Manual,Ibadan,22,21915632.22,482143908.8,SpeedHub,New
+827,17/12/2019,Volkswagen,Atlas,2023,Sedan,Petrol,Manual,Kano,12,24221216.16,290654593.9,SpeedHub,New
+828,05/02/2022,Honda,Pilot,2023,Sedan,Electric,Manual,Kano,16,29466730.87,471467693.9,SpeedHub,New
+829,25/05/2024,Toyota,Camry,2020,Hatchback,Petrol,Automatic,Port Harcourt,8,20977448.13,167819585,SpeedHub,Returning
+830,17/04/2019,Honda,Accord,2019,Sedan,Electric,Manual,Kano,15,21080756.54,316211348.1,MegaMotors,New
+831,29/11/2023,BMW,X5,2018,SUV,Hybrid,Automatic,Port Harcourt,18,31225557.6,562060036.8,DriveX,Returning
+832,13/07/2021,Lexus,NX,2019,Sedan,Diesel,Automatic,Kano,7,28790820.68,201535744.8,DriveX,Returning
+833,03/03/2020,Mercedes,GLC,2022,Hatchback,Electric,Automatic,Lagos,3,12422883.72,37268651.16,AutoNation,Returning
+834,01/03/2020,Toyota,Highlander,2019,Sedan,Electric,Automatic,Lagos,25,13260495.17,331512379.3,MegaMotors,Returning
+835,21/01/2022,Mercedes,GLC,2019,SUV,Electric,Automatic,Abuja,17,30291892.69,514962175.7,CarPoint,Returning
+836,31/12/2022,Kia,Sorento,2019,Sedan,Hybrid,Automatic,Abuja,23,12574308.66,289209099.2,AutoNation,New
+837,17/09/2024,Nissan,Rogue,2019,Hatchback,Petrol,Manual,Abuja,19,37766723.75,717567751.3,CarPoint,New
+838,07/10/2022,Toyota,RAV4,2024,Hatchback,Electric,Automatic,Abuja,11,35075293.01,385828223.1,MegaMotors,New
+839,29/06/2022,Toyota,Camry,2023,Truck,Electric,Automatic,Port Harcourt,4,13533262.37,54133049.48,DriveX,New
+840,15/10/2021,Honda,Civic,2024,Hatchback,Hybrid,Manual,Kano,14,20758544.71,290619625.9,MegaMotors,New
+841,25/12/2019,Lexus,RX,2024,Hatchback,Petrol,Automatic,Port Harcourt,11,16072066.89,176792735.8,AutoNation,New
+842,28/05/2022,Honda,Civic,2019,SUV,Petrol,Manual,Lagos,12,41563558.7,498762704.4,MegaMotors,Returning
+843,15/03/2024,Lexus,LX,2021,Sedan,Diesel,Automatic,Lagos,25,43338897.18,1083472430,SpeedHub,New
+844,30/10/2019,BMW,X5,2023,Truck,Hybrid,Automatic,Ibadan,15,32487222.66,487308339.9,CarPoint,Returning
+845,12/02/2021,Nissan,Altima,2019,Sedan,Hybrid,Automatic,Port Harcourt,9,26965865.31,242692787.8,DriveX,Returning
+846,10/08/2020,Volkswagen,Atlas,2019,Sedan,Electric,Automatic,Ibadan,15,11574777.51,173621662.7,CarPoint,Returning
+847,04/11/2023,Honda,Civic,2021,SUV,Diesel,Automatic,Lagos,4,16325462.94,65301851.76,CarPoint,Returning
+848,19/12/2020,Mercedes,GLE,2022,Truck,Hybrid,Automatic,Kano,4,16869470.68,67477882.72,MegaMotors,Returning
+849,01/04/2022,Hyundai,Tucson,2022,Truck,Diesel,Manual,Ibadan,7,38971796.61,272802576.3,DriveX,Returning
+850,09/07/2021,Honda,CR-V,2018,SUV,Diesel,Automatic,Port Harcourt,2,17277864.63,34555729.26,MegaMotors,Returning
+851,17/12/2020,Ford,Explorer,2018,Truck,Electric,Automatic,Kano,2,10145485.22,20290970.44,MegaMotors,New
+852,04/10/2020,Honda,CR-V,2018,SUV,Hybrid,Manual,Port Harcourt,9,32438567.84,291947110.6,MegaMotors,Returning
+853,25/02/2023,Kia,Sorento,2019,Truck,Petrol,Manual,Port Harcourt,25,42090685.38,1052267135,MegaMotors,New
+854,12/06/2022,Nissan,Altima,2019,SUV,Petrol,Automatic,Lagos,2,36336134.31,72672268.62,AutoNation,New
+855,25/05/2024,Mercedes,E-Class,2018,Truck,Petrol,Automatic,Port Harcourt,12,26439092.64,317269111.7,MegaMotors,New
+856,29/12/2021,Nissan,Sentra,2019,Hatchback,Electric,Manual,Ibadan,4,30006920.56,120027682.2,SpeedHub,New
+857,10/02/2020,Hyundai,Elantra,2020,Hatchback,Hybrid,Automatic,Ibadan,14,9812070.97,137368993.6,AutoNation,New
+858,19/08/2021,BMW,3 Series,2020,Hatchback,Hybrid,Manual,Kano,7,34660406.29,242622844,CarPoint,Returning
+859,01/11/2020,Volkswagen,Jetta,2020,SUV,Petrol,Manual,Abuja,7,34811935.52,243683548.6,CarPoint,New
+860,01/03/2022,Ford,Explorer,2021,SUV,Hybrid,Automatic,Abuja,3,23113250.94,69339752.82,CarPoint,New
+861,30/07/2019,BMW,5 Series,2020,Hatchback,Electric,Manual,Lagos,18,39728031.08,715104559.4,CarPoint,New
+862,29/03/2020,Kia,Sorento,2021,Truck,Electric,Manual,Port Harcourt,23,30381134.09,698766084.1,CarPoint,Returning
+863,27/04/2021,Lexus,ES,2020,Hatchback,Electric,Automatic,Abuja,25,10048366.43,251209160.8,SpeedHub,New
+864,29/07/2020,Volkswagen,Passat,2022,Hatchback,Petrol,Automatic,Ibadan,8,44367718.15,354941745.2,CarPoint,New
+865,27/02/2022,Nissan,Rogue,2023,Hatchback,Petrol,Manual,Abuja,17,26088435.91,443503410.5,CarPoint,Returning
+866,29/08/2021,BMW,5 Series,2018,Sedan,Petrol,Manual,Kano,6,36816121.92,220896731.5,DriveX,New
+867,16/03/2021,Toyota,RAV4,2019,SUV,Petrol,Automatic,Port Harcourt,8,8897444.95,71179559.6,CarPoint,New
+868,24/10/2023,Honda,Accord,2019,Sedan,Diesel,Manual,Port Harcourt,2,25743674.59,51487349.18,MegaMotors,New
+869,05/11/2022,Ford,Focus,2021,Hatchback,Diesel,Automatic,Port Harcourt,23,39464917.73,907693107.8,DriveX,Returning
+870,14/12/2021,Lexus,RX,2018,SUV,Hybrid,Automatic,Abuja,13,40094841.52,521232939.8,SpeedHub,Returning
+871,26/01/2020,Mercedes,C-Class,2019,Hatchback,Petrol,Automatic,Abuja,7,36135934.82,252951543.7,MegaMotors,Returning
+872,16/03/2022,Mercedes,E-Class,2024,SUV,Electric,Manual,Ibadan,14,39723757.03,556132598.4,CarPoint,New
+873,25/08/2023,Kia,Sorento,2024,Hatchback,Hybrid,Manual,Kano,10,33083805.66,330838056.6,SpeedHub,New
+874,29/10/2019,Kia,Rio,2024,SUV,Electric,Automatic,Kano,15,20789753.41,311846301.2,SpeedHub,Returning
+875,13/05/2024,Lexus,LX,2018,Sedan,Hybrid,Automatic,Abuja,5,24264593.86,121322969.3,DriveX,New
+876,26/10/2024,Volkswagen,Tiguan,2022,Sedan,Electric,Automatic,Kano,18,25401300.21,457223403.8,SpeedHub,Returning
+877,30/09/2020,Hyundai,Kona,2019,Truck,Hybrid,Manual,Abuja,17,16749287.09,284737880.5,MegaMotors,Returning
+878,29/02/2020,Honda,Civic,2024,Sedan,Diesel,Automatic,Ibadan,1,39712337.5,39712337.5,MegaMotors,Returning
+879,14/11/2023,Lexus,ES,2019,SUV,Hybrid,Automatic,Kano,15,19785044.33,296775665,DriveX,Returning
+880,07/12/2020,Toyota,Camry,2020,Hatchback,Diesel,Manual,Kano,14,40817205.66,571440879.2,SpeedHub,New
+881,03/12/2022,BMW,5 Series,2024,Sedan,Electric,Automatic,Lagos,22,21684416.79,477057169.4,SpeedHub,New
+882,02/02/2022,Kia,Rio,2019,Hatchback,Hybrid,Automatic,Lagos,11,26193711.48,288130826.3,AutoNation,New
+883,25/09/2023,Ford,Escape,2019,Truck,Electric,Automatic,Kano,22,36512293.71,803270461.6,AutoNation,New
+884,15/08/2019,Lexus,LX,2018,Truck,Hybrid,Automatic,Lagos,4,12048479.61,48193918.44,CarPoint,New
+885,18/01/2020,Toyota,Camry,2022,SUV,Hybrid,Manual,Lagos,20,15391164.09,307823281.8,CarPoint,Returning
+886,07/05/2019,Toyota,Corolla,2019,Sedan,Diesel,Automatic,Lagos,3,31591617.03,94774851.09,CarPoint,New
+887,02/01/2021,Kia,Sportage,2024,SUV,Petrol,Manual,Lagos,13,33183642.66,431387354.6,AutoNation,Returning
+888,10/12/2024,BMW,X5,2023,Sedan,Diesel,Manual,Ibadan,1,39224246.89,39224246.89,DriveX,New
+889,02/05/2020,Lexus,RX,2019,Hatchback,Hybrid,Manual,Kano,12,26914801.6,322977619.2,DriveX,New
+890,20/11/2021,BMW,5 Series,2021,SUV,Diesel,Automatic,Abuja,2,41963385.67,83926771.34,AutoNation,New
+891,22/09/2024,Hyundai,Santa Fe,2023,Sedan,Diesel,Manual,Abuja,18,36788694.73,662196505.1,SpeedHub,New
+892,23/11/2019,Volkswagen,Jetta,2020,Truck,Petrol,Manual,Kano,7,30403325.63,212823279.4,DriveX,New
+893,19/10/2023,Toyota,Corolla,2019,Hatchback,Diesel,Manual,Abuja,18,40055555.82,721000004.8,DriveX,Returning
+894,06/01/2022,Kia,Rio,2023,SUV,Diesel,Automatic,Kano,22,30492844.55,670842580.1,DriveX,New
+895,22/11/2024,Honda,Civic,2021,Sedan,Hybrid,Automatic,Kano,1,19138223.2,19138223.2,AutoNation,Returning
+896,19/12/2021,Volkswagen,Passat,2022,SUV,Petrol,Manual,Port Harcourt,6,11228199.3,67369195.8,DriveX,New
+897,03/07/2022,Hyundai,Tucson,2020,SUV,Petrol,Automatic,Port Harcourt,8,18396319.49,147170555.9,CarPoint,New
+898,08/10/2020,Volkswagen,Passat,2020,Truck,Petrol,Manual,Lagos,11,37295955.64,410255512,CarPoint,New
+899,05/07/2021,Ford,Edge,2023,SUV,Diesel,Manual,Ibadan,16,37099078.49,593585255.8,DriveX,Returning
+900,27/04/2019,Ford,Escape,2019,Sedan,Petrol,Manual,Port Harcourt,6,13743777.51,82462665.06,SpeedHub,New
+901,28/10/2019,Nissan,Rogue,2018,SUV,Hybrid,Manual,Port Harcourt,25,44854373.04,1121359326,AutoNation,New
+902,21/11/2022,Ford,Escape,2024,Hatchback,Petrol,Manual,Port Harcourt,10,32391476.64,323914766.4,AutoNation,New
+903,26/01/2024,Lexus,NX,2022,Hatchback,Hybrid,Automatic,Lagos,1,19690898.87,19690898.87,DriveX,Returning
+904,23/02/2024,Kia,Sorento,2019,Sedan,Diesel,Manual,Ibadan,25,8919889.87,222997246.8,AutoNation,Returning
+905,21/02/2019,Honda,CR-V,2024,Sedan,Hybrid,Manual,Port Harcourt,15,40797998.3,611969974.5,AutoNation,New
+906,24/10/2023,Kia,Seltos,2024,SUV,Diesel,Manual,Port Harcourt,6,32277646.15,193665876.9,SpeedHub,New
+907,18/08/2020,Honda,CR-V,2023,Hatchback,Hybrid,Automatic,Kano,6,34925145.53,209550873.2,MegaMotors,New
+908,26/02/2019,Volkswagen,Tiguan,2018,Hatchback,Diesel,Manual,Lagos,24,24539744.46,588953867,DriveX,New
+909,27/01/2019,Toyota,Corolla,2023,SUV,Petrol,Automatic,Abuja,4,10220936.85,40883747.4,MegaMotors,Returning
+910,24/05/2022,Volkswagen,Jetta,2018,Hatchback,Petrol,Manual,Port Harcourt,1,10793357.25,10793357.25,DriveX,New
+911,25/02/2020,Mercedes,E-Class,2021,Sedan,Electric,Automatic,Lagos,6,9601803.45,57610820.7,CarPoint,Returning
+912,19/12/2023,Nissan,Altima,2022,SUV,Diesel,Manual,Kano,14,25642707.56,358997905.8,SpeedHub,Returning
+913,20/07/2019,Volkswagen,Jetta,2022,SUV,Petrol,Automatic,Abuja,24,21706465.16,520955163.8,SpeedHub,New
+914,31/10/2021,Mercedes,GLE,2021,Hatchback,Hybrid,Manual,Ibadan,13,11276342.84,146592456.9,AutoNation,New
+915,08/04/2021,Ford,Focus,2022,Truck,Petrol,Manual,Abuja,17,33873262.49,575845462.3,MegaMotors,New
+916,29/09/2022,Mercedes,GLC,2021,Hatchback,Electric,Automatic,Ibadan,4,16365657.66,65462630.64,CarPoint,New
+917,18/03/2021,Ford,Explorer,2024,Hatchback,Petrol,Manual,Abuja,7,20843558.72,145904911,CarPoint,New
+918,26/07/2022,Kia,Sorento,2024,SUV,Hybrid,Automatic,Kano,3,28765250,86295750,DriveX,New
+919,17/01/2024,Volkswagen,Passat,2021,Sedan,Hybrid,Manual,Lagos,18,19136154.16,344450774.9,AutoNation,Returning
+920,05/05/2024,Ford,Focus,2021,SUV,Petrol,Manual,Ibadan,7,27934480.89,195541366.2,CarPoint,Returning
+921,19/06/2024,Hyundai,Kona,2022,Sedan,Hybrid,Automatic,Ibadan,7,16125287.05,112877009.4,AutoNation,New
+922,27/12/2020,Ford,Escape,2024,Truck,Electric,Manual,Ibadan,4,40879436.96,163517747.8,CarPoint,New
+923,22/05/2023,Kia,Rio,2019,Sedan,Electric,Automatic,Lagos,19,37355982.35,709763664.7,AutoNation,Returning
+924,05/08/2024,Volkswagen,Passat,2022,SUV,Petrol,Automatic,Port Harcourt,23,39636008.5,911628195.5,AutoNation,Returning
+925,14/12/2022,Ford,Edge,2023,Sedan,Hybrid,Automatic,Lagos,5,9939256.75,49696283.75,DriveX,New
+926,28/08/2021,Kia,Rio,2019,Sedan,Petrol,Manual,Abuja,9,26502452.82,238522075.4,SpeedHub,Returning
+927,12/04/2022,Volkswagen,Jetta,2022,Sedan,Electric,Automatic,Port Harcourt,23,21498916.42,494475077.7,SpeedHub,Returning
+928,22/12/2024,Mercedes,GLC,2022,Hatchback,Petrol,Manual,Ibadan,9,39931126.08,359380134.7,DriveX,Returning
+929,24/02/2022,Toyota,Highlander,2020,Truck,Petrol,Manual,Abuja,4,36014637.08,144058548.3,MegaMotors,Returning
+930,26/03/2019,Mercedes,GLE,2023,Sedan,Petrol,Automatic,Port Harcourt,20,12122687.13,242453742.6,DriveX,Returning
+931,02/08/2019,Honda,Civic,2020,Truck,Diesel,Manual,Port Harcourt,11,12185850.12,134044351.3,MegaMotors,Returning
+932,11/05/2021,Lexus,ES,2023,Truck,Petrol,Manual,Ibadan,25,31787059.27,794676481.8,DriveX,New
+933,05/07/2021,Ford,Escape,2021,SUV,Electric,Manual,Lagos,25,40530176.36,1013254409,DriveX,New
+934,02/02/2024,Volkswagen,Passat,2024,Truck,Diesel,Manual,Port Harcourt,21,36688958.48,770468128.1,MegaMotors,New
+935,16/06/2020,Hyundai,Elantra,2018,SUV,Diesel,Manual,Lagos,22,15528418.12,341625198.6,AutoNation,Returning
+936,15/06/2024,Mercedes,C-Class,2020,SUV,Hybrid,Manual,Lagos,7,16781148.84,117468041.9,AutoNation,New
+937,03/07/2022,Kia,Seltos,2020,Hatchback,Diesel,Automatic,Lagos,25,43154126.27,1078853157,AutoNation,New
+938,01/05/2022,Mercedes,C-Class,2024,Truck,Diesel,Automatic,Abuja,5,33466368.23,167331841.2,AutoNation,Returning
+939,28/12/2020,Lexus,NX,2020,Sedan,Hybrid,Automatic,Ibadan,12,43607948.33,523295380,SpeedHub,New
+940,13/07/2019,Ford,Explorer,2024,Hatchback,Diesel,Automatic,Ibadan,10,11558277.01,115582770.1,MegaMotors,New
+941,03/06/2019,Nissan,Rogue,2020,Hatchback,Electric,Automatic,Lagos,2,15438678,30877356,DriveX,Returning
+942,19/06/2022,Ford,Edge,2022,Sedan,Electric,Automatic,Kano,14,13724331.15,192140636.1,CarPoint,Returning
+943,23/10/2022,Kia,Sportage,2018,Truck,Electric,Manual,Ibadan,3,39788294.96,119364884.9,DriveX,New
+944,10/08/2023,Hyundai,Kona,2020,Hatchback,Electric,Automatic,Port Harcourt,23,29093239.54,669144509.4,AutoNation,New
+945,05/11/2022,Hyundai,Santa Fe,2024,Truck,Diesel,Automatic,Lagos,1,29914752.67,29914752.67,CarPoint,New
+946,25/08/2020,Volkswagen,Atlas,2023,Hatchback,Hybrid,Automatic,Abuja,11,28526017.67,313786194.4,SpeedHub,Returning
+947,16/04/2022,Volkswagen,Passat,2021,Sedan,Diesel,Automatic,Lagos,16,17551131.58,280818105.3,AutoNation,Returning
+948,27/03/2024,Volkswagen,Passat,2024,Hatchback,Diesel,Automatic,Lagos,9,17360001.44,156240013,DriveX,New
+949,07/01/2020,Hyundai,Santa Fe,2024,Truck,Diesel,Automatic,Port Harcourt,19,30150745.36,572864161.8,DriveX,Returning
+950,20/09/2022,Hyundai,Kona,2021,SUV,Petrol,Automatic,Lagos,8,25764956.47,206119651.8,CarPoint,Returning
+951,30/09/2020,Mercedes,GLE,2022,Hatchback,Hybrid,Manual,Lagos,15,35112677.66,526690164.9,CarPoint,Returning
+952,13/08/2023,Toyota,Corolla,2023,Hatchback,Hybrid,Automatic,Kano,12,9014452.33,108173428,CarPoint,New
+953,15/02/2020,Toyota,Highlander,2024,Truck,Petrol,Automatic,Abuja,20,30855690.55,617113811,AutoNation,New
+954,19/08/2019,Mercedes,GLC,2023,SUV,Diesel,Manual,Ibadan,19,42982119.52,816660270.9,DriveX,New
+955,06/11/2023,Hyundai,Tucson,2018,Sedan,Hybrid,Manual,Kano,1,21094073.49,21094073.49,DriveX,Returning
+956,21/10/2023,Lexus,NX,2023,SUV,Petrol,Manual,Abuja,9,30478754.06,274308786.5,MegaMotors,Returning
+957,01/10/2021,BMW,X3,2022,SUV,Petrol,Automatic,Ibadan,7,28780462.62,201463238.3,AutoNation,Returning
+958,17/08/2021,Ford,Focus,2021,SUV,Diesel,Automatic,Abuja,21,17587020.38,369327428,CarPoint,New
+959,23/08/2023,Hyundai,Elantra,2023,Truck,Petrol,Automatic,Abuja,17,44604300.64,758273110.9,CarPoint,New
+960,27/09/2019,Honda,Civic,2022,SUV,Hybrid,Manual,Abuja,19,30651148.63,582371824,SpeedHub,Returning
+961,21/06/2022,Honda,Civic,2024,SUV,Petrol,Automatic,Port Harcourt,12,34301832.25,411621987,AutoNation,Returning
+962,06/04/2020,Honda,Pilot,2024,Truck,Diesel,Manual,Abuja,12,42995332.84,515943994.1,DriveX,Returning
+963,03/05/2021,Volkswagen,Tiguan,2019,Truck,Diesel,Manual,Ibadan,24,17605645.73,422535497.5,AutoNation,Returning
+964,25/08/2021,Nissan,Pathfinder,2022,Sedan,Petrol,Automatic,Lagos,3,13168483.65,39505450.95,CarPoint,Returning
+965,23/11/2024,Volkswagen,Atlas,2022,Sedan,Petrol,Manual,Kano,9,20561904.22,185057138,MegaMotors,Returning
+966,19/12/2019,Ford,Explorer,2018,Truck,Diesel,Manual,Port Harcourt,25,24303250.22,607581255.5,CarPoint,New
+967,06/10/2024,Mercedes,C-Class,2022,Sedan,Diesel,Automatic,Ibadan,5,18633137.93,93165689.65,MegaMotors,Returning
+968,10/09/2020,Honda,Accord,2018,SUV,Petrol,Automatic,Ibadan,5,16905008.95,84525044.75,SpeedHub,Returning
+969,18/03/2024,Ford,Focus,2021,SUV,Electric,Manual,Lagos,3,39154615.98,117463847.9,AutoNation,New
+970,01/11/2020,Hyundai,Santa Fe,2022,Hatchback,Diesel,Manual,Abuja,20,22342939.17,446858783.4,MegaMotors,Returning
+971,27/12/2019,Kia,Sportage,2023,Truck,Diesel,Automatic,Port Harcourt,7,18694243.65,130859705.6,CarPoint,New
+972,04/05/2024,Mercedes,GLE,2021,Hatchback,Hybrid,Manual,Lagos,14,9410157.58,131742206.1,AutoNation,Returning
+973,07/05/2024,Hyundai,Santa Fe,2022,Hatchback,Electric,Automatic,Port Harcourt,19,40285021.6,765415410.4,CarPoint,Returning
+974,08/07/2024,Ford,Escape,2020,Truck,Hybrid,Manual,Lagos,12,26334687.03,316016244.4,SpeedHub,Returning
+975,10/09/2022,Lexus,ES,2022,Truck,Hybrid,Automatic,Lagos,13,24750196.49,321752554.4,CarPoint,New
+976,10/05/2021,Hyundai,Kona,2018,Truck,Diesel,Automatic,Kano,11,26493055.31,291423608.4,CarPoint,New
+977,24/04/2023,Ford,Escape,2021,Sedan,Diesel,Automatic,Abuja,14,32401792.28,453625091.9,AutoNation,Returning
+978,08/01/2022,Hyundai,Tucson,2021,Truck,Electric,Automatic,Port Harcourt,24,8309417.39,199426017.4,SpeedHub,New
+979,16/03/2019,Nissan,Sentra,2020,Truck,Diesel,Automatic,Ibadan,9,40595246.86,365357221.7,MegaMotors,Returning
+980,03/08/2023,Volkswagen,Tiguan,2024,Sedan,Electric,Automatic,Lagos,2,20870250.13,41740500.26,SpeedHub,New
+981,12/10/2022,BMW,5 Series,2024,Hatchback,Petrol,Automatic,Abuja,3,32335416.87,97006250.61,MegaMotors,Returning
+982,08/06/2019,Lexus,RX,2019,Truck,Diesel,Automatic,Lagos,5,27595526.22,137977631.1,AutoNation,Returning
+983,19/03/2024,Nissan,Sentra,2024,Sedan,Electric,Automatic,Ibadan,16,42100465.99,673607455.8,SpeedHub,New
+984,15/03/2020,BMW,X3,2018,Sedan,Diesel,Automatic,Lagos,23,27501056.76,632524305.5,CarPoint,Returning
+985,28/12/2022,Hyundai,Kona,2019,SUV,Petrol,Manual,Lagos,2,21217525.84,42435051.68,CarPoint,New
+986,28/10/2022,BMW,X3,2024,Truck,Hybrid,Automatic,Ibadan,21,9600976.92,201620515.3,SpeedHub,New
+987,15/04/2021,Lexus,RX,2018,Sedan,Diesel,Automatic,Lagos,11,37801501.67,415816518.4,DriveX,New
+988,12/07/2024,Kia,Rio,2018,Truck,Electric,Automatic,Port Harcourt,5,26864386.08,134321930.4,AutoNation,Returning
+989,09/04/2021,BMW,3 Series,2021,SUV,Diesel,Automatic,Abuja,7,39019468.48,273136279.4,CarPoint,Returning
+990,28/12/2019,BMW,3 Series,2021,SUV,Diesel,Automatic,Port Harcourt,10,40728068.05,407280680.5,DriveX,Returning
+991,29/10/2019,Honda,Accord,2018,SUV,Petrol,Manual,Ibadan,3,34702542.59,104107627.8,SpeedHub,Returning
+992,11/01/2023,Hyundai,Santa Fe,2024,SUV,Electric,Manual,Ibadan,17,8326674.58,141553467.9,MegaMotors,Returning
+993,27/04/2024,Kia,Sorento,2019,Sedan,Diesel,Manual,Kano,16,23219151.74,371506427.8,DriveX,New
+994,29/11/2022,BMW,5 Series,2020,Sedan,Diesel,Manual,Port Harcourt,17,39939622.48,678973582.2,SpeedHub,New
+995,19/07/2023,Lexus,NX,2022,SUV,Diesel,Manual,Ibadan,12,38699303.75,464391645,CarPoint,New
+996,22/09/2020,Volkswagen,Atlas,2019,SUV,Petrol,Automatic,Kano,25,31625920.53,790648013.3,CarPoint,Returning
+997,15/01/2022,Lexus,NX,2021,SUV,Hybrid,Automatic,Kano,23,21544203.07,495516670.6,AutoNation,Returning
+998,09/02/2023,Hyundai,Elantra,2024,Hatchback,Electric,Automatic,Lagos,3,37107530.29,111322590.9,AutoNation,New
+999,17/07/2019,Nissan,Pathfinder,2020,SUV,Petrol,Automatic,Port Harcourt,14,23985473.66,335796631.2,AutoNation,New
+1000,16/10/2022,BMW,X5,2022,Hatchback,Diesel,Automatic,Lagos,23,29416436.21,676578032.8,SpeedHub,New
