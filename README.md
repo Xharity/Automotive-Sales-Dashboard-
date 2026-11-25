@@ -1,6 +1,6 @@
 # Automotive Sales Performance, Nigeria (2019 to 2024)
 
-**Charity Umoh, Business Analyst (automotive retail, Nigeria)**
+**Charity Umoh, Business Analyst | Business Intelligence**
 
 A Power BI review of ₦335bn in vehicle sales across 10 brands, 5 cities and 5 dealers. The question I set out to answer: **where is revenue coming from, and where is it slipping?**
 
