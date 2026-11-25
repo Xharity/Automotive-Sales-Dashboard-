@@ -1,88 +1,71 @@
+# Automotive Sales Performance, Nigeria (2019 to 2024)
 
+**Charity Umoh, Business Analyst (automotive retail, Nigeria)**
 
-# 🚗 Automotive Sales Dashboard (2019–2024)
+A Power BI review of ₦335bn in vehicle sales across 10 brands, 5 cities and 5 dealers. The question I set out to answer: **where is revenue coming from, and where is it slipping?**
 
-**By Charity Umoh**
-
-This Power BI dashboard provides deep insights into the automotive market between 2019 and 2024 — exploring how different brands, models, and fuel types performed across regions.
-
----
-
-## 🌍 Project Overview
-The **Automotive Sales Dashboard** is a data-driven report designed to uncover key performance metrics and market trends in the automotive industry.
-
-It helps stakeholders quickly identify:
-- Top-selling brands by **units sold**
-- **YoY sales performance** and growth trends
-- The rise of **Electric Vehicle (EV)** adoption over time
-- Regional performance analysis and price trends
+![Revenue trend](images/revenue_trend.png)
 
 ---
 
-## 🧠 Key Insights
-- 🚘 **Sedan lead sales**, representing over 27% of total units sold.  
-- ⚡ **EV adoption** has steadily increased from 1.2% in 2019 to 6.8% in 2024.  
-- 🏆 **Brand dominance**: Hyundai, KIA, and Volkswagen consistently top the list in units sold.  
-- 💰 **Price range insights** show premium brands drive higher total sales but lower unit volume.  
-- 📈 **YoY growth** shows steady upward movement despite minor dips in specific years.
+## The short answer
+
+Revenue is flat to falling. It peaked at ₦59.4bn in 2022 and has dropped for two years since, closing 2024 at ₦55.2bn (7% below the peak and 3% below 2019). No single brand, city or dealer carries the business. The clearest growth signal is electric and hybrid cars, which now bring in more than half of revenue.
+
+## Key findings
+
+**1. Two straight years of decline after the 2022 peak.**
+2022 was the only growth year (+13%). 2023 fell 3% and 2024 fell another 4%. Units sold followed the same path, so the drop is fewer cars sold, not lower prices.
+
+**2. Electric and hybrid cars are now the majority of revenue.**
+Their share went from 47% in 2019 to 56% in 2023 and 54% in 2024. They have been above half every year since 2021. Hybrid is the single largest fuel type at 25.8% of revenue.
+
+**3. No brand dominates, so the brand alone does not win the sale.**
+All 10 brands sit between 8.4% and 11.1% of revenue. Kia leads (₦37.2bn), BMW trails (₦28.1bn). In a market this even, dealer coverage and service matter more than the badge.
+
+**4. Volume and value are different stories.**
+Hyundai sold the most cars (1,454) at the lowest average price (₦24.7m). Nissan sold the second fewest (1,139) but at the highest average price (₦29.7m), which lifts it to 5th on revenue. Top model by revenue is the Hyundai Santa Fe (₦14.0bn).
+
+**5. Port Harcourt is the strongest city and the most electric.**
+Port Harcourt brings in 21.4% of revenue, and 31% of its revenue is electric, the highest of any city. Kano is the smallest city (18.7%) and leans hybrid (31%), with the lowest diesel share (17%).
+
+**6. Each dealer has a weak city.**
+SpeedHub leads overall (₦73.1bn) because it sells a pricier mix (average ₦27.4m per car). But dealer results swing widely by city. DriveX earns ₦17.7bn in Ibadan and only ₦9.1bn in Abuja. MegaMotors earns ₦17.5bn in Port Harcourt and only ₦9.2bn in Ibadan.
+
+## What I would recommend
+
+These are proposals for discussion, based on what the data shows.
+
+1. **Find out what drove 2022.** It is the only growth year. If it was a promotion, a model launch or a fleet deal, it may be repeatable.
+2. **Put stock and marketing behind electric and hybrid,** starting in Port Harcourt (EV) and Kano (hybrid), where demand is already strongest.
+3. **Close the dealer gaps by city.** Use each dealer's best city as its target in its weakest one, for example DriveX in Abuja and MegaMotors in Ibadan.
+4. **Protect margin on premium models.** Nissan shows a higher price point can still earn top 5 revenue on lower volume.
+
+## Dashboard
+
+![Dashboard](Screenshot%202025-10-30%20104717.png)
+
+## How I built it
+
+| Step | What I did |
+|---|---|
+| Data | 1,000 sales transactions, January 2019 to December 2024. Fields include brand, model, body type, fuel, city, dealer, units and price. |
+| Checks | Confirmed every row reconciles (units × unit price = total sales). Profiled every column for blanks and spread. |
+| Model | Power Query for cleaning and a date table. DAX measures for Revenue, Units, Average Price, Revenue LY, YoY %, and Electric and Hybrid Share %. |
+| Visuals | Revenue trend with fuel share, brand ranking, city by fuel matrix, dealer by city matrix. |
+
+**Data note.** This is a practice dataset, not real dealer records. It has known quirks that I flagged rather than hid: 36% of rows show a model year later than the sale date, and the same model appears under several body types (for example the Elantra as a truck). Findings by body type should be read with that in mind.
+
+## Files
+
+| File | What it is |
+|---|---|
+| `automotive sales perf.pbix` | Power BI report |
+| `Automotive_Sales_Data.csv` | Source data |
+| `images/revenue_trend.png` | Revenue and fuel share chart used above |
 
 ---
 
-## 🧩 Tools & Techniques
-- **Power BI** → For dashboard design and visualization  
-- **Excel / Power Query** → For data cleaning and transformation  
-- **DAX** → For calculated measures (Total Sales, Sales LY, YoY Growth %, EV Share %)  
-- **Data Visualization Techniques** → Combo charts, KPI cards, and trend analysis  
+**Tools:** Power BI, Power Query, DAX, Excel, Python (data checks)
 
----
-
-## 📁 Files in this Repository
-| File Name | Description |
-|------------|--------------|
-| `Automotive_Sales_Dashboard.pbix` | Power BI report file |
-| `Automotive_Sales_Data.csv` | Dataset used for analysis |
-| `AUTO.png` | Dashboard preview image |
-
----
-
-## 📊 Dashboard Preview
-![Dashboard](https://github.com/Xharity/Automotive-Sales-Dashboard-/blob/main/Screenshot%202025-10-30%20104717.png?raw=true)
-
----
-
-## 🧾 Analytical Process (Step-by-Step)
-1. **Data Cleaning:** Removed missing values and standardized brand/model names.  
-2. **Transformation:** Extracted date hierarchy (Year, Month, Quarter).  
-3. **DAX Measures:**  
-   - `Total Sales`  
-   - `Units Sold`  
-   - `Sales LY`  
-   - `YoY Growth %`  
-   - `EV Share %`
-4. **Visualization:**  
-   - Bar chart → Units sold by brand  
-   - Combo chart → Sales vs. EV growth over time  
-   - Donut chart → Market share by fuel type  
-   - KPI cards → Key performance indicators (Total Sales, YoY Growth, EV %)
-
----
-
-## 📈 Insights Application
-This dashboard can be applied in:
-- **Market intelligence** for automotive companies  
-- **Sales forecasting** and brand performance evaluation  
-- **Strategic decision-making** on product positioning and inventory planning  
-
----
-
-## 🙌 About the Author
-**Charity Umoh** — Business Data Analyst with over 3 years of experience at Honda Automobile Western Africa.  
-Passionate about transforming raw data into actionable insights through visualization and storytelling.
-
-📫 [Connect with me on LinkedIn]((https://www.linkedin.com/in/umoh-charity-7065a5105/)
-
----
-
-### ⭐ If you found this dashboard insightful, please star ⭐ the repository and share your thoughts!
-
-#PowerBI #DataAnalysis #DataVisualization #Automotive #BusinessIntelligence #DAX #DashboardDesign
+[Connect with me on LinkedIn](https://www.linkedin.com/in/umoh-charity-7065a5105/)
